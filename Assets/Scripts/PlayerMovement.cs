@@ -1,6 +1,7 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Runtime.CompilerServices;
 using UnityEngine;
 
 [System.Diagnostics.DebuggerDisplay("{" + nameof(GetDebuggerDisplay) + "(),nq}")]
@@ -26,7 +27,11 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private LayerMask groundLayer;
     [SerializeField] private Transform wallCheck;
     [SerializeField] private LayerMask wallLayer;
-   
+
+    void Update()
+    {
+        horizontal = Input.GetAxisRaw("Horizontal");   
+    }
 
     private bool IsGrounded()
     {
@@ -37,7 +42,7 @@ public class PlayerMovement : MonoBehaviour
     {
         Vector2 vector2 = new Vector2(horizontal * speed, rb.velocity.y);
         rb.velocity = vector2;
-        horizontal = Input.GetAxisRaw("Horizontal");
+
 
         if (Input.GetButtonDown("Jump") && IsGrounded())
         {
@@ -58,10 +63,11 @@ public class PlayerMovement : MonoBehaviour
         }
 
 
-        bool IsGrounded()
-    {
-        return Physics2D.OverlapCircle(groundCheck.position, 0.2f, groundLayer);
-    }
+         bool IsGrounded()
+        {
+            return Physics2D.OverlapCircle(groundCheck.position, 0.2f, groundLayer);
+        }
+    
 }
 
     private void Flip()

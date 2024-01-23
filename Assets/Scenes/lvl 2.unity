@@ -133,7 +133,7 @@ GameObject:
   m_Component:
   - component: {fileID: 11837479}
   - component: {fileID: 11837478}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cave platforming (35)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -200,12 +200,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 11837477}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 1, w: 0}
-  m_LocalPosition: {x: -55, y: -48.5, z: 0}
-  m_LocalScale: {x: 3, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: 1, w: 0}
+  m_LocalPosition: {x: -18.333334, y: -43.643665, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 180}
 --- !u!1 &16122762
 GameObject:
@@ -217,7 +217,7 @@ GameObject:
   m_Component:
   - component: {fileID: 16122764}
   - component: {fileID: 16122763}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: mossy platform (17)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -284,12 +284,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 16122762}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 95.5, y: -32.62, z: 0}
-  m_LocalScale: {x: 1, y: 0.75, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 31.833334, y: -27.763664, z: 0}
+  m_LocalScale: {x: 0.33333334, y: 0.75, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &26155060
 GameObject:
@@ -301,7 +301,7 @@ GameObject:
   m_Component:
   - component: {fileID: 26155062}
   - component: {fileID: 26155061}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: cave platform right (15)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -368,12 +368,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 26155060}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -75.3, y: -59, z: 0}
-  m_LocalScale: {x: 1.5, y: 2.5, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -25.100002, y: -54.143665, z: 0}
+  m_LocalScale: {x: 0.5, y: 2.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &35095679
 GameObject:
@@ -385,7 +385,7 @@ GameObject:
   m_Component:
   - component: {fileID: 35095681}
   - component: {fileID: 35095680}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: cave platform right (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -452,12 +452,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 35095679}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 5.28, y: -15.51, z: 0}
-  m_LocalScale: {x: 1.5, y: 2.5, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 1.7600001, y: -10.653665, z: 0}
+  m_LocalScale: {x: 0.5, y: 2.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &39515099
 GameObject:
@@ -469,7 +469,7 @@ GameObject:
   m_Component:
   - component: {fileID: 39515101}
   - component: {fileID: 39515100}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: mossy platform (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -536,12 +536,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 39515099}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 71.700005, y: -68, z: 0}
-  m_LocalScale: {x: 1, y: 0.75, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 23.900002, y: -63.143665, z: 0}
+  m_LocalScale: {x: 0.33333334, y: 0.75, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &53302323
 GameObject:
@@ -553,7 +553,7 @@ GameObject:
   m_Component:
   - component: {fileID: 53302325}
   - component: {fileID: 53302324}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Moss gate (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -620,12 +620,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 53302323}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 107.1, y: -47.15, z: 0}
-  m_LocalScale: {x: 0.75, y: 0.75, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 35.7, y: -42.293667, z: 0}
+  m_LocalScale: {x: 0.25, y: 0.75, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &78887314
 GameObject:
@@ -637,7 +637,7 @@ GameObject:
   m_Component:
   - component: {fileID: 78887316}
   - component: {fileID: 78887315}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cave platforming (29)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -704,12 +704,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 78887314}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 1, w: 0}
-  m_LocalPosition: {x: -33, y: -48.5, z: 0}
-  m_LocalScale: {x: 3, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: 1, w: 0}
+  m_LocalPosition: {x: -11, y: -43.643665, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 180}
 --- !u!1 &90030702
 GameObject:
@@ -721,7 +721,7 @@ GameObject:
   m_Component:
   - component: {fileID: 90030704}
   - component: {fileID: 90030703}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cave platforming (14)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -788,12 +788,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 90030702}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 32.4, y: 25.95, z: 0}
-  m_LocalScale: {x: 3, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 10.800001, y: 30.806335, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &96238927
 GameObject:
@@ -805,7 +805,7 @@ GameObject:
   m_Component:
   - component: {fileID: 96238929}
   - component: {fileID: 96238928}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cave platforming (40)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -872,12 +872,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 96238927}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -43.7, y: -79.5, z: 0}
-  m_LocalScale: {x: 3, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -14.566668, y: -74.64366, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &136377346
 GameObject:
@@ -889,7 +889,7 @@ GameObject:
   m_Component:
   - component: {fileID: 136377348}
   - component: {fileID: 136377347}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cave platforming (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -956,12 +956,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 136377346}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 15.69, y: 25.87, z: 0}
-  m_LocalScale: {x: 3, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 5.23, y: 30.726337, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &155266851
 GameObject:
@@ -973,7 +973,7 @@ GameObject:
   m_Component:
   - component: {fileID: 155266853}
   - component: {fileID: 155266852}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: LONg cave platform 1 (13)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1040,12 +1040,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 155266851}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -6.3, y: -46.4, z: 0}
-  m_LocalScale: {x: 1.5, y: 2.5, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -2.1000001, y: -41.543667, z: 0}
+  m_LocalScale: {x: 0.5, y: 2.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &174563256
 GameObject:
@@ -1057,7 +1057,7 @@ GameObject:
   m_Component:
   - component: {fileID: 174563258}
   - component: {fileID: 174563257}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Falling leafs 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1124,12 +1124,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 174563256}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -36.038155, y: -63.8762, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -12.012718, y: -59.019867, z: 0}
+  m_LocalScale: {x: 0.33333334, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &175543269
 GameObject:
@@ -1141,7 +1141,7 @@ GameObject:
   m_Component:
   - component: {fileID: 175543271}
   - component: {fileID: 175543270}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cave platform 3 - Copy (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1208,12 +1208,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 175543269}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 12, y: -8.94, z: 0}
-  m_LocalScale: {x: 1, y: 2, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 4, y: -4.083664, z: 0}
+  m_LocalScale: {x: 0.33333334, y: 2, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &211679884
 GameObject:
@@ -1226,7 +1226,8 @@ GameObject:
   - component: {fileID: 211679887}
   - component: {fileID: 211679886}
   - component: {fileID: 211679885}
-  m_Layer: 0
+  - component: {fileID: 211679888}
+  m_Layer: 7
   m_Name: Main Camera
   m_TagString: MainCamera
   m_Icon: {fileID: 0}
@@ -1276,7 +1277,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 5
+  orthographic size: 20
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -1300,13 +1301,47 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 211679884}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -10}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -3.4533334, y: 14.386335, z: -10}
+  m_LocalScale: {x: 0.33333334, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &211679888
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 211679884}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72ece51f2901e7445ab60da3685d6b5f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_ShowDebugText: 0
+  m_ShowCameraFrustum: 1
+  m_IgnoreTimeScale: 0
+  m_WorldUpOverride: {fileID: 0}
+  m_UpdateMethod: 2
+  m_BlendUpdateMethod: 1
+  m_DefaultBlend:
+    m_Style: 1
+    m_Time: 2
+    m_CustomCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+  m_CustomBlends: {fileID: 0}
+  m_CameraCutEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  m_CameraActivatedEvent:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &214106138
 GameObject:
   m_ObjectHideFlags: 0
@@ -1317,7 +1352,7 @@ GameObject:
   m_Component:
   - component: {fileID: 214106140}
   - component: {fileID: 214106139}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cave platforming (41)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1384,12 +1419,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 214106138}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -36.9, y: -79.4, z: 0}
-  m_LocalScale: {x: 3, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -12.300001, y: -74.54366, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &224100738
 GameObject:
@@ -1401,7 +1436,7 @@ GameObject:
   m_Component:
   - component: {fileID: 224100740}
   - component: {fileID: 224100739}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Moss gate (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1468,12 +1503,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 224100738}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 61.2, y: -63.58, z: 0}
-  m_LocalScale: {x: 0.75, y: 0.75, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 20.400002, y: -58.723667, z: 0}
+  m_LocalScale: {x: 0.25, y: 0.75, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &227038725
 GameObject:
@@ -1485,7 +1520,7 @@ GameObject:
   m_Component:
   - component: {fileID: 227038727}
   - component: {fileID: 227038726}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Falling leafs 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1552,12 +1587,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 227038725}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 66.816505, y: -37.329327, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 22.27217, y: -32.472992, z: 0}
+  m_LocalScale: {x: 0.33333334, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &237432165
 GameObject:
@@ -1569,7 +1604,7 @@ GameObject:
   m_Component:
   - component: {fileID: 237432167}
   - component: {fileID: 237432166}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cave platforming (33)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1636,12 +1671,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 237432165}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -71.2, y: -79.8, z: 0}
-  m_LocalScale: {x: 3, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -23.733334, y: -74.943665, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &243773323
 GameObject:
@@ -1653,7 +1688,8 @@ GameObject:
   m_Component:
   - component: {fileID: 243773325}
   - component: {fileID: 243773324}
-  m_Layer: 0
+  - component: {fileID: 243773326}
+  m_Layer: 7
   m_Name: cave platform right (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1720,13 +1756,58 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 243773323}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -12.63, y: 11.54, z: 0}
-  m_LocalScale: {x: 1.5, y: 2.5, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -4.21, y: 16.396336, z: 0}
+  m_LocalScale: {x: 0.5, y: 2.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &243773326
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 243773323}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.24, y: 3.8}
+    newSize: {x: 1.24, y: 3.8}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.24, y: 3.8}
+  m_EdgeRadius: 0
 --- !u!1 &244133892
 GameObject:
   m_ObjectHideFlags: 0
@@ -1737,7 +1818,7 @@ GameObject:
   m_Component:
   - component: {fileID: 244133894}
   - component: {fileID: 244133893}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: cave platform right (17)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1804,12 +1885,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 244133892}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -75.3, y: -75.5, z: 0}
-  m_LocalScale: {x: 1.5, y: 2.5, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -25.100002, y: -70.64366, z: 0}
+  m_LocalScale: {x: 0.5, y: 2.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &257506839
 GameObject:
@@ -1821,7 +1902,7 @@ GameObject:
   m_Component:
   - component: {fileID: 257506841}
   - component: {fileID: 257506840}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: vine 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1888,13 +1969,213 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 257506839}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 68.43, y: -54.83, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 22.810001, y: -49.973667, z: 0}
+  m_LocalScale: {x: 0.33333334, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 274675897}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &258177125
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 258177126}
+  - component: {fileID: 258177129}
+  - component: {fileID: 258177130}
+  - component: {fileID: 258177131}
+  - component: {fileID: 258177128}
+  - component: {fileID: 258177127}
+  - component: {fileID: 258177132}
+  m_Layer: 0
+  m_Name: Character
+  m_TagString: Player
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &258177126
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 258177125}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -10.36, y: 9.53, z: 0}
+  m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &258177127
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 258177125}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2fe5546f775c47d2820aa5e8a715f53, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: 0e51362ee5d4110418481ef02e4b24d0, type: 2}
+--- !u!114 &258177128
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 258177125}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e741851cba3ad425c91ecf922cc6b379, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Speed","value":{"$content":5.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Jump","value":{"$content":10.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _objectReferences: []
+--- !u!212 &258177129
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 258177125}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: -1736287197, guid: 24227a1ddbbb09a4abe4c8ee67141a05, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 3.4375, y: 2.40625}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!50 &258177130
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 258177125}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
+--- !u!70 &258177131
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 258177125}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_Size: {x: 3.4375, y: 2.40625}
+  m_Direction: 0
+--- !u!114 &258177132
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 258177125}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2fe5546f775c47d2820aa5e8a715f53, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: 094fd849a5491c14aa282d82a36da605, type: 2}
 --- !u!1 &258977858
 GameObject:
   m_ObjectHideFlags: 0
@@ -1905,7 +2186,7 @@ GameObject:
   m_Component:
   - component: {fileID: 258977860}
   - component: {fileID: 258977859}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: moving platform
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1972,11 +2253,262 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 258977858}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -12.503757, y: -52.184715, z: 0}
-  m_LocalScale: {x: 3, y: 3, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -4.167919, y: -47.32838, z: 0}
+  m_LocalScale: {x: 1, y: 3, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
+  m_Father: {fileID: 274675897}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &274675896
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 274675897}
+  m_Layer: 7
+  m_Name: Platform
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &274675897
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 274675896}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: -4.8563356, z: 0}
+  m_LocalScale: {x: 3, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 211679887}
+  - {fileID: 1654357439}
+  - {fileID: 801074144}
+  - {fileID: 1234272278}
+  - {fileID: 1612455924}
+  - {fileID: 1027476208}
+  - {fileID: 932854356}
+  - {fileID: 2090510292}
+  - {fileID: 1939197256}
+  - {fileID: 1328066761}
+  - {fileID: 1669667292}
+  - {fileID: 136377348}
+  - {fileID: 1466793363}
+  - {fileID: 937651275}
+  - {fileID: 90030704}
+  - {fileID: 349792625}
+  - {fileID: 1616908767}
+  - {fileID: 2014925488}
+  - {fileID: 300944552}
+  - {fileID: 1489338633}
+  - {fileID: 1716508111}
+  - {fileID: 1365712124}
+  - {fileID: 451568325}
+  - {fileID: 35095681}
+  - {fileID: 1555915849}
+  - {fileID: 702305105}
+  - {fileID: 1799252863}
+  - {fileID: 302620594}
+  - {fileID: 1365544471}
+  - {fileID: 906925506}
+  - {fileID: 26155062}
+  - {fileID: 1568921022}
+  - {fileID: 244133894}
+  - {fileID: 2045365248}
+  - {fileID: 1936058032}
+  - {fileID: 1251162578}
+  - {fileID: 539682594}
+  - {fileID: 1508535707}
+  - {fileID: 742564263}
+  - {fileID: 689465726}
+  - {fileID: 528275646}
+  - {fileID: 360449074}
+  - {fileID: 1195922154}
+  - {fileID: 848332897}
+  - {fileID: 1172958329}
+  - {fileID: 1105354907}
+  - {fileID: 1604669718}
+  - {fileID: 433965673}
+  - {fileID: 714462027}
+  - {fileID: 390144780}
+  - {fileID: 739071600}
+  - {fileID: 243773325}
+  - {fileID: 1034951474}
+  - {fileID: 1540097908}
+  - {fileID: 2112612471}
+  - {fileID: 1555949372}
+  - {fileID: 1542958504}
+  - {fileID: 1531951581}
+  - {fileID: 1881811885}
+  - {fileID: 1420459248}
+  - {fileID: 155266853}
+  - {fileID: 1352624681}
+  - {fileID: 1227731243}
+  - {fileID: 1255341203}
+  - {fileID: 1954918497}
+  - {fileID: 383904084}
+  - {fileID: 1891526748}
+  - {fileID: 175543271}
+  - {fileID: 1594380735}
+  - {fileID: 1190006749}
+  - {fileID: 585906846}
+  - {fileID: 564364459}
+  - {fileID: 78887316}
+  - {fileID: 630730719}
+  - {fileID: 1572593385}
+  - {fileID: 11837479}
+  - {fileID: 1825159270}
+  - {fileID: 1314312638}
+  - {fileID: 1454468218}
+  - {fileID: 1396171998}
+  - {fileID: 1066640849}
+  - {fileID: 1950193756}
+  - {fileID: 1296632149}
+  - {fileID: 939222657}
+  - {fileID: 1356031702}
+  - {fileID: 237432167}
+  - {fileID: 1740874084}
+  - {fileID: 1692431846}
+  - {fileID: 1982136790}
+  - {fileID: 53302325}
+  - {fileID: 1013442788}
+  - {fileID: 1509520843}
+  - {fileID: 305985580}
+  - {fileID: 901863061}
+  - {fileID: 1624286587}
+  - {fileID: 1388521895}
+  - {fileID: 1753868917}
+  - {fileID: 39515101}
+  - {fileID: 1398554533}
+  - {fileID: 566457979}
+  - {fileID: 224100740}
+  - {fileID: 258977860}
+  - {fileID: 1767894565}
+  - {fileID: 2106126938}
+  - {fileID: 474209965}
+  - {fileID: 96238929}
+  - {fileID: 214106140}
+  - {fileID: 1778476400}
+  - {fileID: 1791911176}
+  - {fileID: 744796745}
+  - {fileID: 1590107242}
+  - {fileID: 1721555573}
+  - {fileID: 1004516965}
+  - {fileID: 1563819157}
+  - {fileID: 1508647395}
+  - {fileID: 1765180704}
+  - {fileID: 1176765709}
+  - {fileID: 956808022}
+  - {fileID: 16122764}
+  - {fileID: 521536886}
+  - {fileID: 1517597980}
+  - {fileID: 1984552994}
+  - {fileID: 1562925816}
+  - {fileID: 1917254718}
+  - {fileID: 1013868839}
+  - {fileID: 1069567667}
+  - {fileID: 174563258}
+  - {fileID: 1554673238}
+  - {fileID: 318903795}
+  - {fileID: 583199257}
+  - {fileID: 1863786906}
+  - {fileID: 1708475997}
+  - {fileID: 346335926}
+  - {fileID: 1701254466}
+  - {fileID: 2111316945}
+  - {fileID: 1610533401}
+  - {fileID: 257506841}
+  - {fileID: 710299180}
+  - {fileID: 360119891}
+  - {fileID: 1444993787}
+  - {fileID: 425172906}
+  - {fileID: 477392250}
+  - {fileID: 1057981273}
+  - {fileID: 227038727}
+  - {fileID: 1910411035}
+  - {fileID: 496486913}
+  - {fileID: 2033807748}
+  - {fileID: 1564749276}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &284293715
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 284293717}
+  - component: {fileID: 284293716}
+  m_Layer: 0
+  m_Name: Virtual Camera
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &284293716
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 284293715}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45e653bab7fb20e499bda25e1b646fea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_ExcludedPropertiesInInspector:
+  - m_Script
+  m_LockStageInInspector: 
+  m_StreamingVersion: 20170927
+  m_Priority: 10
+  m_StandbyUpdate: 2
+  m_LookAt: {fileID: 258177126}
+  m_Follow: {fileID: 258177126}
+  m_Lens:
+    FieldOfView: 60
+    OrthographicSize: 20
+    NearClipPlane: 0.3
+    FarClipPlane: 1000
+    Dutch: 0
+    ModeOverride: 0
+    LensShift: {x: 0, y: 0}
+    GateFit: 2
+    FocusDistance: 10
+    m_SensorSize: {x: 1, y: 1}
+  m_Transitions:
+    m_BlendHint: 0
+    m_InheritPosition: 0
+    m_OnCameraLive:
+      m_PersistentCalls:
+        m_Calls: []
+  m_LegacyBlendHint: 0
+  m_ComponentOwner: {fileID: 1486625952}
+--- !u!4 &284293717
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 284293715}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -10.36, y: 9.53, z: -10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1486625952}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &300944550
@@ -1989,7 +2521,7 @@ GameObject:
   m_Component:
   - component: {fileID: 300944552}
   - component: {fileID: 300944551}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cave platforming (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2056,12 +2588,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 300944550}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 24.5, y: 18.18, z: 0}
-  m_LocalScale: {x: 3, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 8.166667, y: 23.036335, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &302620592
 GameObject:
@@ -2073,7 +2605,7 @@ GameObject:
   m_Component:
   - component: {fileID: 302620594}
   - component: {fileID: 302620593}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: cave platform right (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2140,12 +2672,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 302620592}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -19.6, y: -45, z: 0}
-  m_LocalScale: {x: 1.5, y: 2.5, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -6.533334, y: -40.143665, z: 0}
+  m_LocalScale: {x: 0.5, y: 2.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &305985578
 GameObject:
@@ -2157,7 +2689,7 @@ GameObject:
   m_Component:
   - component: {fileID: 305985580}
   - component: {fileID: 305985579}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Moss gate (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2224,12 +2756,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 305985578}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 45.7, y: -63.58, z: 0}
-  m_LocalScale: {x: 0.75, y: 0.75, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 15.233334, y: -58.723667, z: 0}
+  m_LocalScale: {x: 0.25, y: 0.75, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &318903793
 GameObject:
@@ -2241,7 +2773,7 @@ GameObject:
   m_Component:
   - component: {fileID: 318903795}
   - component: {fileID: 318903794}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: glow grass 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2308,12 +2840,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 318903793}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -61.44, y: -70.9, z: 0}
-  m_LocalScale: {x: 0.5, y: 0.5, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -20.48, y: -66.04366, z: 0}
+  m_LocalScale: {x: 0.16666667, y: 0.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &346335924
 GameObject:
@@ -2325,7 +2857,7 @@ GameObject:
   m_Component:
   - component: {fileID: 346335926}
   - component: {fileID: 346335925}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Staglite 5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2392,12 +2924,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 346335924}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -17.47, y: -35.3668, z: 0}
-  m_LocalScale: {x: 1, y: 1.7647, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -5.8233333, y: -30.510464, z: 0}
+  m_LocalScale: {x: 0.33333334, y: 1.7647, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &349792623
 GameObject:
@@ -2409,7 +2941,7 @@ GameObject:
   m_Component:
   - component: {fileID: 349792625}
   - component: {fileID: 349792624}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cave platforming (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2476,12 +3008,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 349792623}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 9.42, y: 17.59, z: 0}
-  m_LocalScale: {x: 3, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 3.14, y: 22.446335, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &360119889
 GameObject:
@@ -2493,7 +3025,7 @@ GameObject:
   m_Component:
   - component: {fileID: 360119891}
   - component: {fileID: 360119890}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: vine1 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2561,11 +3093,11 @@ Transform:
   m_GameObject: {fileID: 360119889}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0.1736421, w: 0.98480886}
-  m_LocalPosition: {x: 64.56, y: -56.82, z: 0}
-  m_LocalScale: {x: 1, y: 1.5425, z: 1}
+  m_LocalPosition: {x: 21.52, y: -51.963665, z: 0}
+  m_LocalScale: {x: 0.361525, y: 1.2500612, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -19.999}
 --- !u!1 &360449072
 GameObject:
@@ -2577,7 +3109,7 @@ GameObject:
   m_Component:
   - component: {fileID: 360449074}
   - component: {fileID: 360449073}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cave platforming 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2644,12 +3176,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 360449072}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 1, w: 0}
-  m_LocalPosition: {x: -1.64, y: 7.3, z: 0}
-  m_LocalScale: {x: 1.75, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: 1, w: 0}
+  m_LocalPosition: {x: -0.5466667, y: 12.156336, z: 0}
+  m_LocalScale: {x: 0.5833334, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 180}
 --- !u!1 &383904082
 GameObject:
@@ -2661,7 +3193,7 @@ GameObject:
   m_Component:
   - component: {fileID: 383904084}
   - component: {fileID: 383904083}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: LONg cave platform 1 (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2728,12 +3260,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 383904082}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 27.37, y: -8.96, z: 0}
-  m_LocalScale: {x: 1.5, y: 1.5, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 9.123334, y: -4.1036644, z: 0}
+  m_LocalScale: {x: 0.5, y: 1.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &390144778
 GameObject:
@@ -2745,7 +3277,7 @@ GameObject:
   m_Component:
   - component: {fileID: 390144780}
   - component: {fileID: 390144779}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cave platform 8 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2812,12 +3344,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 390144778}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.7, y: -30.7, z: 0}
-  m_LocalScale: {x: 1.5, y: 2.5, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.5666667, y: -25.843666, z: 0}
+  m_LocalScale: {x: 0.5, y: 2.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &393133324
 GameObject:
@@ -2896,12 +3428,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 393133324}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 22.84, y: -9.43, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 7.6133337, y: -4.5736647, z: 0}
+  m_LocalScale: {x: 0.33333334, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 673162953}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &425172904
 GameObject:
@@ -2913,7 +3445,7 @@ GameObject:
   m_Component:
   - component: {fileID: 425172906}
   - component: {fileID: 425172905}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Moss Vine 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2980,12 +3512,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 425172904}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 28.075266, y: -38.308624, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 9.358422, y: -33.45229, z: 0}
+  m_LocalScale: {x: 0.33333334, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &433965671
 GameObject:
@@ -2997,7 +3529,7 @@ GameObject:
   m_Component:
   - component: {fileID: 433965673}
   - component: {fileID: 433965672}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cave platform 8 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3064,12 +3596,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 433965671}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -60.4, y: -73, z: 0}
-  m_LocalScale: {x: 1.5, y: 2.5, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -20.133335, y: -68.14366, z: 0}
+  m_LocalScale: {x: 0.5, y: 2.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &451568323
 GameObject:
@@ -3081,7 +3613,7 @@ GameObject:
   m_Component:
   - component: {fileID: 451568325}
   - component: {fileID: 451568324}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: cave platform right (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3148,12 +3680,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 451568323}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 5.28, y: -7.43, z: 0}
-  m_LocalScale: {x: 1.5, y: 2.5, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 1.7600001, y: -2.5736642, z: 0}
+  m_LocalScale: {x: 0.5, y: 2.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &474209963
 GameObject:
@@ -3165,7 +3697,7 @@ GameObject:
   m_Component:
   - component: {fileID: 474209965}
   - component: {fileID: 474209964}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cave platforming (39)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3232,12 +3764,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 474209963}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -52.8, y: -79.5, z: 0}
-  m_LocalScale: {x: 3, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -17.6, y: -74.64366, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &477392248
 GameObject:
@@ -3249,7 +3781,7 @@ GameObject:
   m_Component:
   - component: {fileID: 477392250}
   - component: {fileID: 477392249}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: mossy rock
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3316,12 +3848,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 477392248}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 35.284657, y: -54.362213, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 11.761553, y: -49.50588, z: 0}
+  m_LocalScale: {x: 0.33333334, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &496486911
 GameObject:
@@ -3333,7 +3865,7 @@ GameObject:
   m_Component:
   - component: {fileID: 496486913}
   - component: {fileID: 496486912}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: mossy rock 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3400,12 +3932,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 496486911}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 100.63, y: -55.18, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 33.543335, y: -50.323666, z: 0}
+  m_LocalScale: {x: 0.33333334, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &521536884
 GameObject:
@@ -3417,7 +3949,7 @@ GameObject:
   m_Component:
   - component: {fileID: 521536886}
   - component: {fileID: 521536885}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: mossy platform (16)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3484,12 +4016,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 521536884}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 87.3, y: -32.62, z: 0}
-  m_LocalScale: {x: 1, y: 0.75, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 29.100002, y: -27.763664, z: 0}
+  m_LocalScale: {x: 0.33333334, y: 0.75, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &528275644
 GameObject:
@@ -3501,7 +4033,7 @@ GameObject:
   m_Component:
   - component: {fileID: 528275646}
   - component: {fileID: 528275645}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: LONg cave platform 1 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3568,12 +4100,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 528275644}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 4.8896203, y: -0.3, z: 0}
-  m_LocalScale: {x: 1.5, y: 2.5, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 1.6298735, y: 4.5563354, z: 0}
+  m_LocalScale: {x: 0.5, y: 2.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &539682592
 GameObject:
@@ -3585,7 +4117,7 @@ GameObject:
   m_Component:
   - component: {fileID: 539682594}
   - component: {fileID: 539682593}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: LONg cave platform 1 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3652,12 +4184,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 539682592}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 4.8896203, y: 9.89, z: 0}
-  m_LocalScale: {x: 1.5, y: 2.5, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 1.6298735, y: 14.746336, z: 0}
+  m_LocalScale: {x: 0.5, y: 2.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &564364457
 GameObject:
@@ -3669,7 +4201,7 @@ GameObject:
   m_Component:
   - component: {fileID: 564364459}
   - component: {fileID: 564364458}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cave platforming (28)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3736,12 +4268,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 564364457}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 1, w: 0}
-  m_LocalPosition: {x: -24.2, y: -48.5, z: 0}
-  m_LocalScale: {x: 3, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: 1, w: 0}
+  m_LocalPosition: {x: -8.066668, y: -43.643665, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 180}
 --- !u!1 &566457977
 GameObject:
@@ -3753,7 +4285,7 @@ GameObject:
   m_Component:
   - component: {fileID: 566457979}
   - component: {fileID: 566457978}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: mossy platform (13)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3820,12 +4352,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 566457977}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 80.100006, y: -68, z: 0}
-  m_LocalScale: {x: 1, y: 0.75, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 26.700003, y: -63.143665, z: 0}
+  m_LocalScale: {x: 0.33333334, y: 0.75, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &566816313
 GameObject:
@@ -3905,11 +4437,11 @@ Transform:
   m_GameObject: {fileID: 566816313}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0.10119504, w: 0.9948666}
-  m_LocalPosition: {x: 53.16, y: -63.1, z: 0}
-  m_LocalScale: {x: 2, y: 2.2875, z: 1}
+  m_LocalPosition: {x: 17.720001, y: -58.243664, z: 0}
+  m_LocalScale: {x: 0.6851861, y: 2.115931, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 673162953}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -11.616}
 --- !u!1 &583199255
 GameObject:
@@ -3921,7 +4453,7 @@ GameObject:
   m_Component:
   - component: {fileID: 583199257}
   - component: {fileID: 583199256}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: glow grass 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3988,12 +4520,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 583199255}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -67.4849, y: -64.3438, z: 0}
-  m_LocalScale: {x: 0.4, y: 0.4, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -22.494968, y: -59.48747, z: 0}
+  m_LocalScale: {x: 0.13333334, y: 0.4, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &585906844
 GameObject:
@@ -4005,7 +4537,7 @@ GameObject:
   m_Component:
   - component: {fileID: 585906846}
   - component: {fileID: 585906845}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cave platforming (24)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4072,12 +4604,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 585906844}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 1, w: 0}
-  m_LocalPosition: {x: -15.4, y: -33.57, z: 0}
-  m_LocalScale: {x: 3, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: 1, w: 0}
+  m_LocalPosition: {x: -5.133333, y: -28.713665, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 180}
 --- !u!1 &630730717
 GameObject:
@@ -4089,7 +4621,7 @@ GameObject:
   m_Component:
   - component: {fileID: 630730719}
   - component: {fileID: 630730718}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cave platforming (30)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4156,13 +4688,49 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 630730717}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 1, w: 0}
-  m_LocalPosition: {x: -38.3, y: -48.5, z: 0}
-  m_LocalScale: {x: 3, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: 1, w: 0}
+  m_LocalPosition: {x: -12.766666, y: -43.643665, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 180}
+--- !u!1 &673162952
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 673162953}
+  m_Layer: 0
+  m_Name: Deadzone
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &673162953
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 673162952}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: -4.8563356, z: 0}
+  m_LocalScale: {x: 3, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 393133326}
+  - {fileID: 566816315}
+  - {fileID: 1647509563}
+  - {fileID: 1763320388}
+  - {fileID: 930854981}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &689465724
 GameObject:
   m_ObjectHideFlags: 0
@@ -4173,7 +4741,7 @@ GameObject:
   m_Component:
   - component: {fileID: 689465726}
   - component: {fileID: 689465725}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: LONg cave platform 1 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4240,12 +4808,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 689465724}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 36.3, y: 13.5, z: 0}
-  m_LocalScale: {x: 1.5, y: 2.5, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 12.1, y: 18.356335, z: 0}
+  m_LocalScale: {x: 0.5, y: 2.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &702305103
 GameObject:
@@ -4257,7 +4825,7 @@ GameObject:
   m_Component:
   - component: {fileID: 702305105}
   - component: {fileID: 702305104}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: cave platform right (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4324,12 +4892,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 702305103}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -3, y: -29.9, z: 0}
-  m_LocalScale: {x: 1.5, y: 2.5, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1, y: -25.043663, z: 0}
+  m_LocalScale: {x: 0.5, y: 2.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &710299178
 GameObject:
@@ -4341,7 +4909,7 @@ GameObject:
   m_Component:
   - component: {fileID: 710299180}
   - component: {fileID: 710299179}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: vine 2 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4408,12 +4976,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 710299178}
   serializedVersion: 2
-  m_LocalRotation: {x: 1, y: 0, z: 0, w: 0}
-  m_LocalPosition: {x: 67.28, y: -40.2783, z: 0}
-  m_LocalScale: {x: 1, y: 1.0975, z: 1}
+  m_LocalRotation: {x: 1, y: -0, z: -0, w: 0}
+  m_LocalPosition: {x: 22.426666, y: -35.421967, z: 0}
+  m_LocalScale: {x: 0.33333334, y: 1.0975, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 180, y: 0, z: 0}
 --- !u!1 &714462025
 GameObject:
@@ -4425,7 +4993,7 @@ GameObject:
   m_Component:
   - component: {fileID: 714462027}
   - component: {fileID: 714462026}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cave platform 8 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4492,12 +5060,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 714462025}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -69.4, y: -66.2, z: 0}
-  m_LocalScale: {x: 1.5, y: 2.5, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -23.133335, y: -61.343662, z: 0}
+  m_LocalScale: {x: 0.5, y: 2.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &739071598
 GameObject:
@@ -4509,7 +5077,7 @@ GameObject:
   m_Component:
   - component: {fileID: 739071600}
   - component: {fileID: 739071599}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cave platform 8 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4576,12 +5144,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 739071598}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 15.7, y: -30.8, z: 0}
-  m_LocalScale: {x: 1.5, y: 2.5, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 5.2333336, y: -25.943665, z: 0}
+  m_LocalScale: {x: 0.5, y: 2.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &742564261
 GameObject:
@@ -4593,7 +5161,7 @@ GameObject:
   m_Component:
   - component: {fileID: 742564263}
   - component: {fileID: 742564262}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: LONg cave platform 1 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4660,12 +5228,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 742564261}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 36.3, y: 21.8, z: 0}
-  m_LocalScale: {x: 1.5, y: 2.5, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 12.1, y: 26.656334, z: 0}
+  m_LocalScale: {x: 0.5, y: 2.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &744796743
 GameObject:
@@ -4677,7 +5245,7 @@ GameObject:
   m_Component:
   - component: {fileID: 744796745}
   - component: {fileID: 744796744}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: mossy platform (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4744,12 +5312,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 744796743}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 32.58, y: -58.57, z: 0}
-  m_LocalScale: {x: 1, y: 0.75, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 10.860001, y: -53.713665, z: 0}
+  m_LocalScale: {x: 0.33333334, y: 0.75, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &801074142
 GameObject:
@@ -4761,7 +5329,7 @@ GameObject:
   m_Component:
   - component: {fileID: 801074144}
   - component: {fileID: 801074143}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cave platforming (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4828,12 +5396,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 801074142}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.24, y: -4.8563356, z: 0}
-  m_LocalScale: {x: 3, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.08, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &848332895
 GameObject:
@@ -4845,7 +5413,7 @@ GameObject:
   m_Component:
   - component: {fileID: 848332897}
   - component: {fileID: 848332896}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cave platform 8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4912,12 +5480,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 848332895}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -5.85, y: 12.97, z: 0}
-  m_LocalScale: {x: 1.5, y: 2.5, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1.95, y: 17.826336, z: 0}
+  m_LocalScale: {x: 0.5, y: 2.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &901863059
 GameObject:
@@ -4929,7 +5497,7 @@ GameObject:
   m_Component:
   - component: {fileID: 901863061}
   - component: {fileID: 901863060}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: mossy platform (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4996,12 +5564,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 901863059}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 87.00001, y: -58.57, z: 0}
-  m_LocalScale: {x: 1, y: 0.75, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 29, y: -53.713665, z: 0}
+  m_LocalScale: {x: 0.33333334, y: 0.75, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &906925504
 GameObject:
@@ -5013,7 +5581,7 @@ GameObject:
   m_Component:
   - component: {fileID: 906925506}
   - component: {fileID: 906925505}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: cave platform right (14)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5080,12 +5648,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 906925504}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -75.3, y: -52.56, z: 0}
-  m_LocalScale: {x: 1.5, y: 2.5, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -25.100002, y: -47.703667, z: 0}
+  m_LocalScale: {x: 0.5, y: 2.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &930854979
 GameObject:
@@ -5164,12 +5732,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 930854979}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 75.86, y: -63.53, z: 0}
-  m_LocalScale: {x: 2.278125, y: 2.0625, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 25.286667, y: -58.673664, z: 0}
+  m_LocalScale: {x: 0.75937504, y: 2.0625, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 673162953}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &932854354
 GameObject:
@@ -5181,7 +5749,7 @@ GameObject:
   m_Component:
   - component: {fileID: 932854356}
   - component: {fileID: 932854355}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cave platforming (19)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5248,12 +5816,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 932854354}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 16.03, y: -42.5, z: 0}
-  m_LocalScale: {x: 3, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 5.3433337, y: -37.643665, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &937651273
 GameObject:
@@ -5265,7 +5833,7 @@ GameObject:
   m_Component:
   - component: {fileID: 937651275}
   - component: {fileID: 937651274}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cave platforming (13)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5332,12 +5900,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 937651273}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 32.18, y: 25.95, z: 0}
-  m_LocalScale: {x: 3, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 10.726667, y: 30.806335, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &939222655
 GameObject:
@@ -5349,7 +5917,7 @@ GameObject:
   m_Component:
   - component: {fileID: 939222657}
   - component: {fileID: 939222656}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cave platforming (31)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5416,12 +5984,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 939222655}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -46.9, y: -57.1, z: 0}
-  m_LocalScale: {x: 3, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -15.633334, y: -52.243664, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &956808020
 GameObject:
@@ -5433,7 +6001,7 @@ GameObject:
   m_Component:
   - component: {fileID: 956808022}
   - component: {fileID: 956808021}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: mossy platform (14)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5500,12 +6068,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 956808020}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 69.8, y: -32.62, z: 0}
-  m_LocalScale: {x: 1, y: 0.75, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 23.266668, y: -27.763664, z: 0}
+  m_LocalScale: {x: 0.33333334, y: 0.75, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1004516963
 GameObject:
@@ -5517,7 +6085,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1004516965}
   - component: {fileID: 1004516964}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: mossy platform (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5584,12 +6152,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1004516963}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 49.5, y: -68, z: 0}
-  m_LocalScale: {x: 1, y: 0.75, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 16.5, y: -63.143665, z: 0}
+  m_LocalScale: {x: 0.33333334, y: 0.75, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1013442786
 GameObject:
@@ -5601,7 +6169,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1013442788}
   - component: {fileID: 1013442787}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Moss gate (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5668,12 +6236,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1013442786}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 100.67, y: -27.96, z: 0}
-  m_LocalScale: {x: 0.75, y: 0.75, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 33.556667, y: -23.103664, z: 0}
+  m_LocalScale: {x: 0.25, y: 0.75, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1013868837
 GameObject:
@@ -5685,7 +6253,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1013868839}
   - component: {fileID: 1013868838}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Background Rock 4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5752,12 +6320,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1013868837}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -40.19, y: -72.24, z: 0}
-  m_LocalScale: {x: 3, y: 4, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -13.396667, y: -67.38366, z: 0}
+  m_LocalScale: {x: 1, y: 4, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1027476206
 GameObject:
@@ -5769,7 +6337,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1027476208}
   - component: {fileID: 1027476207}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cave platforming (17)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5836,12 +6404,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1027476206}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 16.03, y: -11.28, z: 0}
-  m_LocalScale: {x: 3, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 5.3433337, y: -6.423664, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1034951472
 GameObject:
@@ -5853,7 +6421,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1034951474}
   - component: {fileID: 1034951473}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: cave platform right (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5920,12 +6488,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1034951472}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -12.39, y: 18.69, z: 0}
-  m_LocalScale: {x: 1.5, y: 2.5, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -4.13, y: 23.546337, z: 0}
+  m_LocalScale: {x: 0.5, y: 2.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1057981271
 GameObject:
@@ -5937,7 +6505,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1057981273}
   - component: {fileID: 1057981272}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Falling leafs 5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6004,12 +6572,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1057981271}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 50.557835, y: -37.470093, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 16.852612, y: -32.613758, z: 0}
+  m_LocalScale: {x: 0.33333334, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1066640847
 GameObject:
@@ -6021,7 +6589,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1066640849}
   - component: {fileID: 1066640848}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cave platforming (25)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6088,12 +6656,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1066640847}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -11.3, y: -58.3, z: 0}
-  m_LocalScale: {x: 3, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -3.766667, y: -53.443665, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1069567665
 GameObject:
@@ -6105,7 +6673,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1069567667}
   - component: {fileID: 1069567666}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Background Rock 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6172,12 +6740,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1069567665}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -68.86, y: -75.44, z: 0}
-  m_LocalScale: {x: 3, y: 3, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -22.953335, y: -70.583664, z: 0}
+  m_LocalScale: {x: 1, y: 3, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1105354905
 GameObject:
@@ -6189,7 +6757,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1105354907}
   - component: {fileID: 1105354906}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cave platform 8 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6256,12 +6824,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1105354905}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 8.8, y: -25.5, z: 0}
-  m_LocalScale: {x: 1.5, y: 2.5, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 2.9333334, y: -20.643665, z: 0}
+  m_LocalScale: {x: 0.5, y: 2.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1172958327
 GameObject:
@@ -6273,7 +6841,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1172958329}
   - component: {fileID: 1172958328}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cave platform 8 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6340,12 +6908,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1172958327}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.54, y: 17.99, z: 0}
-  m_LocalScale: {x: 1.5, y: 2.5, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.18, y: 22.846336, z: 0}
+  m_LocalScale: {x: 0.5, y: 2.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1176765707
 GameObject:
@@ -6357,7 +6925,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1176765709}
   - component: {fileID: 1176765708}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: mossy platform (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6424,12 +6992,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1176765707}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 51.71, y: -32.62, z: 0}
-  m_LocalScale: {x: 1, y: 0.75, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 17.236668, y: -27.763664, z: 0}
+  m_LocalScale: {x: 0.33333334, y: 0.75, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1190006747
 GameObject:
@@ -6441,7 +7009,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1190006749}
   - component: {fileID: 1190006748}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cave platforming (23)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6508,12 +7076,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1190006747}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 1, w: 0}
-  m_LocalPosition: {x: -7.2, y: -33.57, z: 0}
-  m_LocalScale: {x: 3, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: 1, w: 0}
+  m_LocalPosition: {x: -2.4, y: -28.713665, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 180}
 --- !u!1 &1195922152
 GameObject:
@@ -6525,7 +7093,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1195922154}
   - component: {fileID: 1195922153}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: cave platform right 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6592,12 +7160,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1195922152}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.43, y: 3.55, z: 0}
-  m_LocalScale: {x: 1.5, y: 2.5, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.14333335, y: 8.406336, z: 0}
+  m_LocalScale: {x: 0.5, y: 2.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1227731241
 GameObject:
@@ -6609,7 +7177,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1227731243}
   - component: {fileID: 1227731242}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: LONg cave platform 1 (15)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6676,12 +7244,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1227731241}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -33.8, y: -62.2, z: 0}
-  m_LocalScale: {x: 1.5, y: 2.5, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -11.266666, y: -57.343666, z: 0}
+  m_LocalScale: {x: 0.5, y: 2.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1234272276
 GameObject:
@@ -6693,7 +7261,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1234272278}
   - component: {fileID: 1234272277}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cave platforming (15)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6760,12 +7328,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1234272276}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 31.81, y: -6.39, z: 0}
-  m_LocalScale: {x: 3, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 10.603333, y: -1.5336642, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1251162576
 GameObject:
@@ -6777,7 +7345,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1251162578}
   - component: {fileID: 1251162577}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: LONg cave platform 1 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6844,12 +7412,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1251162576}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 4.8896203, y: 13.97, z: 0}
-  m_LocalScale: {x: 1.5, y: 2.5, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 1.6298735, y: 18.826336, z: 0}
+  m_LocalScale: {x: 0.5, y: 2.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1255341201
 GameObject:
@@ -6861,7 +7429,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1255341203}
   - component: {fileID: 1255341202}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: LONg cave platform 1 (16)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6928,9 +7496,69 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1255341201}
   serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -11.266666, y: -65.14366, z: 0}
+  m_LocalScale: {x: 0.5, y: 2.5, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 274675897}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1261555925
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1261555928}
+  - component: {fileID: 1261555927}
+  - component: {fileID: 1261555926}
+  m_Layer: 0
+  m_Name: VisualScripting SceneVariables
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1261555926
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1261555925}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 765181c9ef4b24d32a4f7cbd2ef370dc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1261555927
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1261555925}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e741851cba3ad425c91ecf922cc6b379, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"declarations":{"Kind":"Scene","collection":{"$content":[],"$version":"A"},"$version":"A"}}'
+    _objectReferences: []
+--- !u!4 &1261555928
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1261555925}
+  serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -33.8, y: -70, z: 0}
-  m_LocalScale: {x: 1.5, y: 2.5, z: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -6945,7 +7573,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1296632149}
   - component: {fileID: 1296632148}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cave platforming (27)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7012,12 +7640,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1296632147}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -29.8, y: -58.3, z: 0}
-  m_LocalScale: {x: 3, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -9.933333, y: -53.443665, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1314312636
 GameObject:
@@ -7029,7 +7657,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1314312638}
   - component: {fileID: 1314312637}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cave platforming (37)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7096,12 +7724,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1314312636}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 1, w: 0}
-  m_LocalPosition: {x: -71.2, y: -48.5, z: 0}
-  m_LocalScale: {x: 3, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: 1, w: 0}
+  m_LocalPosition: {x: -23.733334, y: -43.643665, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 180}
 --- !u!1 &1328066759
 GameObject:
@@ -7113,7 +7741,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1328066761}
   - component: {fileID: 1328066760}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cave platforming (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7180,12 +7808,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1328066759}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.39, y: 25.62, z: 0}
-  m_LocalScale: {x: 3, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.13, y: 30.476337, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1352624679
 GameObject:
@@ -7197,7 +7825,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1352624681}
   - component: {fileID: 1352624680}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: LONg cave platform 1 (14)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7264,12 +7892,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1352624679}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -6.3, y: -54.1, z: 0}
-  m_LocalScale: {x: 1.5, y: 2.5, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -2.1000001, y: -49.243664, z: 0}
+  m_LocalScale: {x: 0.5, y: 2.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1356031700
 GameObject:
@@ -7281,7 +7909,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1356031702}
   - component: {fileID: 1356031701}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cave platforming (32)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7348,12 +7976,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1356031700}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -54.7, y: -57.4, z: 0}
-  m_LocalScale: {x: 3, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -18.233334, y: -52.543667, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1365544469
 GameObject:
@@ -7365,7 +7993,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1365544471}
   - component: {fileID: 1365544470}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: cave platform right (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7432,12 +8060,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1365544469}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -42.27, y: -52.56, z: 0}
-  m_LocalScale: {x: 1.5, y: 2.5, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -14.09, y: -47.703667, z: 0}
+  m_LocalScale: {x: 0.5, y: 2.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1365712122
 GameObject:
@@ -7449,7 +8077,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1365712124}
   - component: {fileID: 1365712123}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: cave platform right
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7516,12 +8144,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1365712122}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -4.13, y: -0.68, z: 0}
-  m_LocalScale: {x: 1.5, y: 2.5, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1.3766668, y: 4.176336, z: 0}
+  m_LocalScale: {x: 0.5, y: 2.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1388521893
 GameObject:
@@ -7533,7 +8161,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1388521895}
   - component: {fileID: 1388521894}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: mossy platform (19)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7600,12 +8228,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1388521893}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 101.5, y: -58.57, z: 0}
-  m_LocalScale: {x: 1, y: 0.75, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 33.833336, y: -53.713665, z: 0}
+  m_LocalScale: {x: 0.33333334, y: 0.75, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1396171996
 GameObject:
@@ -7617,7 +8245,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1396171998}
   - component: {fileID: 1396171997}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cave platforming (22)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7684,12 +8312,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1396171996}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.5, y: -42.5, z: 0}
-  m_LocalScale: {x: 3, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.5, y: -37.643665, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1398554531
 GameObject:
@@ -7701,7 +8329,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1398554533}
   - component: {fileID: 1398554532}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Moss gate (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7768,12 +8396,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1398554531}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 83.40001, y: -63.58, z: 0}
-  m_LocalScale: {x: 0.75, y: 0.75, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 27.800003, y: -58.723667, z: 0}
+  m_LocalScale: {x: 0.25, y: 0.75, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1420459246
 GameObject:
@@ -7785,7 +8413,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1420459248}
   - component: {fileID: 1420459247}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: LONg cave platform 1 (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7852,12 +8480,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1420459246}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 19.8, y: -29.6, z: 0}
-  m_LocalScale: {x: 1.5, y: 2.5, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 6.6, y: -24.743664, z: 0}
+  m_LocalScale: {x: 0.5, y: 2.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1444993785
 GameObject:
@@ -7869,7 +8497,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1444993787}
   - component: {fileID: 1444993786}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Moss Vine 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7936,12 +8564,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1444993785}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 42.836536, y: -38.61, z: 0}
-  m_LocalScale: {x: 1, y: 0.81046873, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 14.278846, y: -33.753666, z: 0}
+  m_LocalScale: {x: 0.33333334, y: 0.81046873, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1454468216
 GameObject:
@@ -7953,7 +8581,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1454468218}
   - component: {fileID: 1454468217}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cave platforming (20)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8020,12 +8648,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1454468216}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 1, w: 0}
-  m_LocalPosition: {x: 1.19, y: -19.03, z: 0}
-  m_LocalScale: {x: 3, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: 1, w: 0}
+  m_LocalPosition: {x: 0.3966667, y: -14.173665, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 180}
 --- !u!1 &1466793361
 GameObject:
@@ -8037,7 +8665,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1466793363}
   - component: {fileID: 1466793362}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cave platforming (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8104,13 +8732,101 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1466793361}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 23.67, y: 25.95, z: 0}
-  m_LocalScale: {x: 3, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 7.8900003, y: 30.806335, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1486625951
+GameObject:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1486625952}
+  - component: {fileID: 1486625954}
+  - component: {fileID: 1486625953}
+  m_Layer: 0
+  m_Name: cm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1486625952
+Transform:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1486625951}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 284293717}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1486625953
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1486625951}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ad980451443d70438faac0bc6c235a0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_TrackedObjectOffset: {x: 0, y: 0, z: 0}
+  m_LookaheadTime: 0
+  m_LookaheadSmoothing: 0
+  m_LookaheadIgnoreY: 0
+  m_XDamping: 1
+  m_YDamping: 1
+  m_ZDamping: 1
+  m_TargetMovementOnly: 1
+  m_ScreenX: 0.5
+  m_ScreenY: 0.5
+  m_CameraDistance: 10
+  m_DeadZoneWidth: 0
+  m_DeadZoneHeight: 0
+  m_DeadZoneDepth: 0
+  m_UnlimitedSoftZone: 0
+  m_SoftZoneWidth: 0.8
+  m_SoftZoneHeight: 0.8
+  m_BiasX: 0
+  m_BiasY: 0
+  m_CenterOnActivate: 1
+  m_GroupFramingMode: 2
+  m_AdjustmentMode: 0
+  m_GroupFramingSize: 0.8
+  m_MaxDollyIn: 5000
+  m_MaxDollyOut: 5000
+  m_MinimumDistance: 1
+  m_MaximumDistance: 5000
+  m_MinimumFOV: 3
+  m_MaximumFOV: 60
+  m_MinimumOrthoSize: 1
+  m_MaximumOrthoSize: 5000
+--- !u!114 &1486625954
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1486625951}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac0b09e7857660247b1477e93731de29, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1489338631
 GameObject:
   m_ObjectHideFlags: 0
@@ -8121,7 +8837,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1489338633}
   - component: {fileID: 1489338632}
-  m_Layer: 0
+  - component: {fileID: 1489338634}
+  m_Layer: 7
   m_Name: Cave platforming (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8188,13 +8905,58 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1489338631}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -8.15, y: 7.68, z: 0}
-  m_LocalScale: {x: 3, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -2.7166667, y: 12.536335, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &1489338634
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1489338631}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 3.54, y: 2.15}
+    newSize: {x: 3.54, y: 2.15}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 3.54, y: 2.15}
+  m_EdgeRadius: 0
 --- !u!1 &1508535705
 GameObject:
   m_ObjectHideFlags: 0
@@ -8205,7 +8967,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1508535707}
   - component: {fileID: 1508535706}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: LONg cave platform 1 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8272,12 +9034,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1508535705}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 28.9, y: 14.1, z: 0}
-  m_LocalScale: {x: 1.5, y: 2.5, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 9.633333, y: 18.956337, z: 0}
+  m_LocalScale: {x: 0.5, y: 2.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1508647393
 GameObject:
@@ -8289,7 +9051,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1508647395}
   - component: {fileID: 1508647394}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: mossy platform (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8356,12 +9118,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1508647393}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 34.44, y: -32.62, z: 0}
-  m_LocalScale: {x: 1, y: 0.75, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 11.48, y: -27.763664, z: 0}
+  m_LocalScale: {x: 0.33333334, y: 0.75, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1509520841
 GameObject:
@@ -8373,7 +9135,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1509520843}
   - component: {fileID: 1509520842}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Moss gate (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8440,12 +9202,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1509520841}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 107.1, y: -54.99, z: 0}
-  m_LocalScale: {x: 0.75, y: 0.75, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 35.7, y: -50.133667, z: 0}
+  m_LocalScale: {x: 0.25, y: 0.75, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1517597978
 GameObject:
@@ -8457,7 +9219,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1517597980}
   - component: {fileID: 1517597979}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: mossy platform (15)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8524,12 +9286,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1517597978}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 78, y: -32.62, z: 0}
-  m_LocalScale: {x: 1, y: 0.75, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 26, y: -27.763664, z: 0}
+  m_LocalScale: {x: 0.33333334, y: 0.75, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1531951579
 GameObject:
@@ -8541,7 +9303,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1531951581}
   - component: {fileID: 1531951580}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: LONg cave platform 1 (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8608,12 +9370,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1531951579}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 11.8, y: -15.1, z: 0}
-  m_LocalScale: {x: 1.5, y: 2.5, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 3.9333334, y: -10.243665, z: 0}
+  m_LocalScale: {x: 0.5, y: 2.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1540097906
 GameObject:
@@ -8625,7 +9387,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1540097908}
   - component: {fileID: 1540097907}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: cave platform right (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8692,12 +9454,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1540097906}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 13.51, y: 13.92, z: 0}
-  m_LocalScale: {x: 1.5, y: 2.5, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 4.5033336, y: 18.776337, z: 0}
+  m_LocalScale: {x: 0.5, y: 2.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1542958502
 GameObject:
@@ -8709,7 +9471,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1542958504}
   - component: {fileID: 1542958503}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: LONg cave platform 1 (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8776,12 +9538,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1542958502}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 36.3, y: -2.5, z: 0}
-  m_LocalScale: {x: 1.5, y: 2.5, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 12.1, y: 2.3563356, z: 0}
+  m_LocalScale: {x: 0.5, y: 2.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1554673236
 GameObject:
@@ -8793,7 +9555,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1554673238}
   - component: {fileID: 1554673237}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Background Rock 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8860,12 +9622,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1554673236}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -29.253548, y: -55.84, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -9.751183, y: -50.983665, z: 0}
+  m_LocalScale: {x: 0.33333334, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1555915847
 GameObject:
@@ -8877,7 +9639,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1555915849}
   - component: {fileID: 1555915848}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: cave platform right (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8944,12 +9706,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1555915847}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -3, y: -23, z: 0}
-  m_LocalScale: {x: 1.5, y: 2.5, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1, y: -18.143665, z: 0}
+  m_LocalScale: {x: 0.5, y: 2.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1555949370
 GameObject:
@@ -8961,7 +9723,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1555949372}
   - component: {fileID: 1555949371}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: LONg cave platform 1 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9028,12 +9790,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1555949370}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 36.3, y: 5.6, z: 0}
-  m_LocalScale: {x: 1.5, y: 2.5, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 12.1, y: 10.456335, z: 0}
+  m_LocalScale: {x: 0.5, y: 2.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1562925814
 GameObject:
@@ -9045,7 +9807,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1562925816}
   - component: {fileID: 1562925815}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: mossy platform (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9112,12 +9874,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1562925814}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 25.1, y: -32.5, z: 0}
-  m_LocalScale: {x: 1, y: 0.75, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 8.366667, y: -27.643665, z: 0}
+  m_LocalScale: {x: 0.33333334, y: 0.75, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1563819155
 GameObject:
@@ -9129,7 +9891,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1563819157}
   - component: {fileID: 1563819156}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: mossy platform (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9196,12 +9958,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1563819155}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 57.9, y: -68, z: 0}
-  m_LocalScale: {x: 1, y: 0.75, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 19.300001, y: -63.143665, z: 0}
+  m_LocalScale: {x: 0.33333334, y: 0.75, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1564749274
 GameObject:
@@ -9213,7 +9975,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1564749276}
   - component: {fileID: 1564749275}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Leaf 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9280,12 +10042,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1564749274}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
-  m_LocalPosition: {x: 101.06, y: -49.26, z: 0}
-  m_LocalScale: {x: 0.37244, y: 0.37244, z: 0.37244}
+  m_LocalRotation: {x: -0, y: 1, z: -0, w: 0}
+  m_LocalPosition: {x: 33.68667, y: -44.403664, z: 0}
+  m_LocalScale: {x: 0.12414667, y: 0.37244, z: 0.37244}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
 --- !u!1 &1568921020
 GameObject:
@@ -9297,7 +10059,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1568921022}
   - component: {fileID: 1568921021}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: cave platform right (16)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9364,12 +10126,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1568921020}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -75.3, y: -66.9, z: 0}
-  m_LocalScale: {x: 1.5, y: 2.5, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -25.100002, y: -62.043667, z: 0}
+  m_LocalScale: {x: 0.5, y: 2.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1572593383
 GameObject:
@@ -9381,7 +10143,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1572593385}
   - component: {fileID: 1572593384}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cave platforming (34)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9448,12 +10210,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1572593383}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 1, w: 0}
-  m_LocalPosition: {x: -46.8, y: -48.5, z: 0}
-  m_LocalScale: {x: 3, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: 1, w: 0}
+  m_LocalPosition: {x: -15.6, y: -43.643665, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 180}
 --- !u!1 &1590107240
 GameObject:
@@ -9465,7 +10227,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1590107242}
   - component: {fileID: 1590107241}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: mossy platform (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9532,12 +10294,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1590107240}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 41.9, y: -58.57, z: 0}
-  m_LocalScale: {x: 1, y: 0.75, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 13.966667, y: -53.713665, z: 0}
+  m_LocalScale: {x: 0.33333334, y: 0.75, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1594380733
 GameObject:
@@ -9549,7 +10311,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1594380735}
   - component: {fileID: 1594380734}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cave platforming (18)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9616,12 +10378,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1594380733}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 1, w: 0}
-  m_LocalPosition: {x: 16.03, y: -18.46, z: 0}
-  m_LocalScale: {x: 3, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: 1, w: 0}
+  m_LocalPosition: {x: 5.3433337, y: -13.603663, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 180}
 --- !u!1 &1604669716
 GameObject:
@@ -9633,7 +10395,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1604669718}
   - component: {fileID: 1604669717}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cave platform 8 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9700,12 +10462,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1604669716}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 8.8, y: -36.9, z: 0}
-  m_LocalScale: {x: 1.5, y: 2.5, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 2.9333334, y: -32.043667, z: 0}
+  m_LocalScale: {x: 0.5, y: 2.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1610533399
 GameObject:
@@ -9717,7 +10479,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1610533401}
   - component: {fileID: 1610533400}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: vine 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9784,12 +10546,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1610533399}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 49.18179, y: -40.3992, z: 0}
-  m_LocalScale: {x: 1, y: 1.0894, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 16.39393, y: -35.542866, z: 0}
+  m_LocalScale: {x: 0.33333334, y: 1.0894, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1612455922
 GameObject:
@@ -9801,7 +10563,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1612455924}
   - component: {fileID: 1612455923}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cave platforming (16)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9868,12 +10630,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1612455922}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 22.97, y: -11.28, z: 0}
-  m_LocalScale: {x: 3, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 7.6566668, y: -6.423664, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1616908765
 GameObject:
@@ -9885,7 +10647,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1616908767}
   - component: {fileID: 1616908766}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cave platforming (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9952,12 +10714,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1616908765}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 17.67, y: 10.39, z: 0}
-  m_LocalScale: {x: 3, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 5.8900003, y: 15.246336, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1624286585
 GameObject:
@@ -9969,7 +10731,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1624286587}
   - component: {fileID: 1624286586}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: mossy platform (18)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10036,12 +10798,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1624286585}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 95.9, y: -58.57, z: 0}
-  m_LocalScale: {x: 1, y: 0.75, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 31.966667, y: -53.713665, z: 0}
+  m_LocalScale: {x: 0.33333334, y: 0.75, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1647509561
 GameObject:
@@ -10120,12 +10882,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1647509561}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 15.3, y: -9.43, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 5.1000004, y: -4.5736647, z: 0}
+  m_LocalScale: {x: 0.33333334, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 673162953}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1654357437
 GameObject:
@@ -10137,7 +10899,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1654357439}
   - component: {fileID: 1654357438}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cave platforming
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10204,12 +10966,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1654357437}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -4.8563356, z: 0}
-  m_LocalScale: {x: 3, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1669667290
 GameObject:
@@ -10221,7 +10983,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1669667292}
   - component: {fileID: 1669667291}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cave platforming (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10288,12 +11050,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1669667290}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 8.22, y: 25.74, z: 0}
-  m_LocalScale: {x: 3, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 2.7400002, y: 30.596336, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1692431844
 GameObject:
@@ -10305,7 +11067,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1692431846}
   - component: {fileID: 1692431845}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Moss gate (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10372,12 +11134,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1692431844}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 28.59, y: -47.15, z: 0}
-  m_LocalScale: {x: 0.75, y: 0.75, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 9.530001, y: -42.293667, z: 0}
+  m_LocalScale: {x: 0.25, y: 0.75, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1701254464
 GameObject:
@@ -10389,7 +11151,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1701254466}
   - component: {fileID: 1701254465}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Background Rock 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10456,12 +11218,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1701254464}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -8.194103, y: -56.03622, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -2.7313678, y: -51.179886, z: 0}
+  m_LocalScale: {x: 0.33333334, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1708475995
 GameObject:
@@ -10473,7 +11235,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1708475997}
   - component: {fileID: 1708475996}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: glow grass 2 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10540,12 +11302,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1708475995}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -57.18, y: -54.44, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -19.060001, y: -49.583664, z: 0}
+  m_LocalScale: {x: 0.33333334, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1716508109
 GameObject:
@@ -10557,7 +11319,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1716508111}
   - component: {fileID: 1716508110}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cave platforming (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10624,12 +11386,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1716508109}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -7.66, y: 25.57, z: 0}
-  m_LocalScale: {x: 3, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -2.5533333, y: 30.426334, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1721555571
 GameObject:
@@ -10641,7 +11403,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1721555573}
   - component: {fileID: 1721555572}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: mossy platform (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10708,12 +11470,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1721555571}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 64.8, y: -58.57, z: 0}
-  m_LocalScale: {x: 1, y: 0.75, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 21.600002, y: -53.713665, z: 0}
+  m_LocalScale: {x: 0.33333334, y: 0.75, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1740874082
 GameObject:
@@ -10725,7 +11487,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1740874084}
   - component: {fileID: 1740874083}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Moss gate
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10792,12 +11554,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1740874082}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 20, y: -38, z: 0}
-  m_LocalScale: {x: 0.75, y: 0.75, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 6.666667, y: -33.143665, z: 0}
+  m_LocalScale: {x: 0.25, y: 0.75, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1753868915
 GameObject:
@@ -10809,7 +11571,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1753868917}
   - component: {fileID: 1753868916}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Moss gate (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10876,12 +11638,96 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1753868915}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 67.90001, y: -63.58, z: 0}
-  m_LocalScale: {x: 0.75, y: 0.75, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 22.633337, y: -58.723667, z: 0}
+  m_LocalScale: {x: 0.25, y: 0.75, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1763320386
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1763320388}
+  - component: {fileID: 1763320387}
+  m_Layer: 0
+  m_Name: SPikes (4)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!212 &1763320387
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1763320386}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300000, guid: 23dfc956ce1991c41bf4850d08e8b40b, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 7.41, y: 3.16}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!4 &1763320388
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1763320386}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.16666667, y: 2.4563355, z: 0}
+  m_LocalScale: {x: 0.33333334, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 673162953}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1765180702
 GameObject:
@@ -10893,7 +11739,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1765180704}
   - component: {fileID: 1765180703}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: mossy platform (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10960,12 +11806,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1765180702}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 42.47, y: -32.62, z: 0}
-  m_LocalScale: {x: 1, y: 0.75, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 14.156668, y: -27.763664, z: 0}
+  m_LocalScale: {x: 0.33333334, y: 0.75, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1767894563
 GameObject:
@@ -10977,7 +11823,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1767894565}
   - component: {fileID: 1767894564}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: moving platform (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11044,12 +11890,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1767894563}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -40.1, y: -75.2, z: 0}
-  m_LocalScale: {x: 3, y: 3, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -13.366667, y: -70.34366, z: 0}
+  m_LocalScale: {x: 1, y: 3, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1778476398
 GameObject:
@@ -11061,7 +11907,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1778476400}
   - component: {fileID: 1778476399}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: mossy button
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11128,12 +11974,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1778476398}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: -43.59, y: -54.5, z: 0}
-  m_LocalScale: {x: 0.25, y: 0.25, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: 0.7071068, w: 0.7071068}
+  m_LocalPosition: {x: -14.530001, y: -49.643665, z: 0}
+  m_LocalScale: {x: 0.25, y: 0.083333336, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
 --- !u!1 &1791911174
 GameObject:
@@ -11145,7 +11991,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1791911176}
   - component: {fileID: 1791911175}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: mossy platform
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11212,12 +12058,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1791911174}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 24.92, y: -42.7, z: 0}
-  m_LocalScale: {x: 1, y: 0.75, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 8.306667, y: -37.843666, z: 0}
+  m_LocalScale: {x: 0.33333334, y: 0.75, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1799252861
 GameObject:
@@ -11229,7 +12075,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1799252863}
   - component: {fileID: 1799252862}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: cave platform right (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11296,12 +12142,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1799252861}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -19.5, y: -37.6, z: 0}
-  m_LocalScale: {x: 1.5, y: 2.5, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -6.5, y: -32.743664, z: 0}
+  m_LocalScale: {x: 0.5, y: 2.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1825159268
 GameObject:
@@ -11313,7 +12159,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1825159270}
   - component: {fileID: 1825159269}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cave platforming (36)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11380,12 +12226,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1825159268}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 1, w: 0}
-  m_LocalPosition: {x: -63.4, y: -48.5, z: 0}
-  m_LocalScale: {x: 3, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: 1, w: 0}
+  m_LocalPosition: {x: -21.133335, y: -43.643665, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 180}
 --- !u!1 &1863786904
 GameObject:
@@ -11397,7 +12243,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1863786906}
   - component: {fileID: 1863786905}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: glow grass 1 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11464,12 +12310,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1863786904}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -57.99, y: -54.85, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -19.330002, y: -49.993664, z: 0}
+  m_LocalScale: {x: 0.33333334, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1881811883
 GameObject:
@@ -11481,7 +12327,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1881811885}
   - component: {fileID: 1881811884}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: LONg cave platform 1 (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11548,12 +12394,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1881811883}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 19.8, y: -22.4, z: 0}
-  m_LocalScale: {x: 1.5, y: 2.5, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 6.6, y: -17.543663, z: 0}
+  m_LocalScale: {x: 0.5, y: 2.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1891526746
 GameObject:
@@ -11565,7 +12411,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1891526748}
   - component: {fileID: 1891526747}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cave platform 3 - Copy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11632,12 +12478,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1891526746}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 18.75, y: -8.94, z: 0}
-  m_LocalScale: {x: 1, y: 2, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 6.25, y: -4.083664, z: 0}
+  m_LocalScale: {x: 0.33333334, y: 2, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1910411033
 GameObject:
@@ -11649,7 +12495,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1910411035}
   - component: {fileID: 1910411034}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Falling leafs 1 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11716,12 +12562,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1910411033}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 66.67574, y: -52.250706, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 22.225248, y: -47.39437, z: 0}
+  m_LocalScale: {x: 0.33333334, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1917254716
 GameObject:
@@ -11733,7 +12579,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1917254718}
   - component: {fileID: 1917254717}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: MOSSY PLATFORM GREEN
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11800,12 +12646,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1917254716}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 95.76, y: -49.11, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 31.920002, y: -44.253666, z: 0}
+  m_LocalScale: {x: 0.33333334, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1936058030
 GameObject:
@@ -11817,7 +12663,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1936058032}
   - component: {fileID: 1936058031}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: LONg cave platform 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11884,12 +12730,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1936058030}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 4.8896203, y: 3.5, z: 0}
-  m_LocalScale: {x: 1.5, y: 2.5, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 1.6298735, y: 8.356336, z: 0}
+  m_LocalScale: {x: 0.5, y: 2.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1939197254
 GameObject:
@@ -11901,7 +12747,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1939197256}
   - component: {fileID: 1939197255}
-  m_Layer: 0
+  - component: {fileID: 1939197257}
+  m_Layer: 7
   m_Name: Cave platforming (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11968,13 +12815,58 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1939197254}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -3.74, y: 7.68, z: 0}
-  m_LocalScale: {x: 3, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1.2466667, y: 12.536335, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &1939197257
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1939197254}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 3.54, y: 2.15}
+    newSize: {x: 3.54, y: 2.15}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 3.54, y: 2.15}
+  m_EdgeRadius: 0
 --- !u!1 &1950193754
 GameObject:
   m_ObjectHideFlags: 0
@@ -11985,7 +12877,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1950193756}
   - component: {fileID: 1950193755}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cave platforming (26)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12052,12 +12944,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1950193754}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -20.6, y: -58.3, z: 0}
-  m_LocalScale: {x: 3, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -6.866667, y: -53.443665, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1954918495
 GameObject:
@@ -12069,7 +12961,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1954918497}
   - component: {fileID: 1954918496}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: LONg cave platform 1 (17)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12136,12 +13028,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1954918495}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -33.8, y: -75.3, z: 0}
-  m_LocalScale: {x: 1.5, y: 2.5, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -11.266666, y: -70.443665, z: 0}
+  m_LocalScale: {x: 0.5, y: 2.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1982136788
 GameObject:
@@ -12153,7 +13045,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1982136790}
   - component: {fileID: 1982136789}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Moss gate (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12220,12 +13112,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1982136788}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 28.59, y: -54.99, z: 0}
-  m_LocalScale: {x: 0.75, y: 0.75, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 9.530001, y: -50.133667, z: 0}
+  m_LocalScale: {x: 0.25, y: 0.75, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1984552992
 GameObject:
@@ -12237,7 +13129,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1984552994}
   - component: {fileID: 1984552993}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: mossy platform (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12304,12 +13196,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1984552992}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 60.77, y: -32.62, z: 0}
-  m_LocalScale: {x: 1, y: 0.75, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 20.256668, y: -27.763664, z: 0}
+  m_LocalScale: {x: 0.33333334, y: 0.75, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2014925486
 GameObject:
@@ -12321,7 +13213,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2014925488}
   - component: {fileID: 2014925487}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cave platforming (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12388,12 +13280,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2014925486}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 24.6, y: 10.39, z: 0}
-  m_LocalScale: {x: 3, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 8.200001, y: 15.246336, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2033807746
 GameObject:
@@ -12405,7 +13297,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2033807748}
   - component: {fileID: 2033807747}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Leaf 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12472,12 +13364,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2033807746}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 90.16159, y: -48.101837, z: 0}
-  m_LocalScale: {x: 0.42548, y: 0.42548, z: 0.42548}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 30.053864, y: -43.245502, z: 0}
+  m_LocalScale: {x: 0.14182667, y: 0.42548, z: 0.42548}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2045365246
 GameObject:
@@ -12489,7 +13381,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2045365248}
   - component: {fileID: 2045365247}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: cave platform right (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12556,12 +13448,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2045365246}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -4.13, y: 3.5, z: 0}
-  m_LocalScale: {x: 1.5, y: 2.5, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1.3766668, y: 8.356336, z: 0}
+  m_LocalScale: {x: 0.5, y: 2.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2090510290
 GameObject:
@@ -12573,7 +13465,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2090510292}
   - component: {fileID: 2090510291}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cave platforming (21)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12640,12 +13532,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2090510290}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 7.8, y: -42.5, z: 0}
-  m_LocalScale: {x: 3, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 2.6000001, y: -37.643665, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2106126936
 GameObject:
@@ -12657,7 +13549,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2106126938}
   - component: {fileID: 2106126937}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cave platforming (38)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12724,12 +13616,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2106126936}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -62.3, y: -79.5, z: 0}
-  m_LocalScale: {x: 3, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -20.766666, y: -74.64366, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2111316943
 GameObject:
@@ -12741,7 +13633,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2111316945}
   - component: {fileID: 2111316944}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: vine1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12808,12 +13700,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2111316943}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 47.497803, y: -54.65295, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 15.832602, y: -49.796616, z: 0}
+  m_LocalScale: {x: 0.33333334, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2112612469
 GameObject:
@@ -12825,7 +13717,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2112612471}
   - component: {fileID: 2112612470}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: cave platform right (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12892,166 +13784,19 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2112612469}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -12.3, y: 21.87, z: 0}
-  m_LocalScale: {x: 1.5, y: 2.5, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -4.1000004, y: 26.726337, z: 0}
+  m_LocalScale: {x: 0.5, y: 2.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 274675897}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
-  - {fileID: 211679887}
-  - {fileID: 1654357439}
-  - {fileID: 801074144}
-  - {fileID: 1234272278}
-  - {fileID: 1612455924}
-  - {fileID: 1027476208}
-  - {fileID: 932854356}
-  - {fileID: 2090510292}
-  - {fileID: 1939197256}
-  - {fileID: 1328066761}
-  - {fileID: 1669667292}
-  - {fileID: 136377348}
-  - {fileID: 1466793363}
-  - {fileID: 937651275}
-  - {fileID: 90030704}
-  - {fileID: 349792625}
-  - {fileID: 1616908767}
-  - {fileID: 2014925488}
-  - {fileID: 300944552}
-  - {fileID: 1489338633}
-  - {fileID: 1716508111}
-  - {fileID: 1365712124}
-  - {fileID: 451568325}
-  - {fileID: 35095681}
-  - {fileID: 1555915849}
-  - {fileID: 702305105}
-  - {fileID: 1799252863}
-  - {fileID: 302620594}
-  - {fileID: 1365544471}
-  - {fileID: 906925506}
-  - {fileID: 26155062}
-  - {fileID: 1568921022}
-  - {fileID: 244133894}
-  - {fileID: 2045365248}
-  - {fileID: 1936058032}
-  - {fileID: 1251162578}
-  - {fileID: 539682594}
-  - {fileID: 1508535707}
-  - {fileID: 742564263}
-  - {fileID: 689465726}
-  - {fileID: 528275646}
-  - {fileID: 360449074}
-  - {fileID: 1195922154}
-  - {fileID: 848332897}
-  - {fileID: 1172958329}
-  - {fileID: 1105354907}
-  - {fileID: 1604669718}
-  - {fileID: 433965673}
-  - {fileID: 714462027}
-  - {fileID: 390144780}
-  - {fileID: 739071600}
-  - {fileID: 243773325}
-  - {fileID: 1034951474}
-  - {fileID: 1540097908}
-  - {fileID: 2112612471}
-  - {fileID: 1555949372}
-  - {fileID: 1542958504}
-  - {fileID: 1531951581}
-  - {fileID: 1881811885}
-  - {fileID: 1420459248}
-  - {fileID: 155266853}
-  - {fileID: 1352624681}
-  - {fileID: 1227731243}
-  - {fileID: 1255341203}
-  - {fileID: 1954918497}
-  - {fileID: 383904084}
-  - {fileID: 1891526748}
-  - {fileID: 175543271}
-  - {fileID: 393133326}
-  - {fileID: 566816315}
-  - {fileID: 1647509563}
-  - {fileID: 1594380735}
-  - {fileID: 1190006749}
-  - {fileID: 585906846}
-  - {fileID: 564364459}
-  - {fileID: 78887316}
-  - {fileID: 630730719}
-  - {fileID: 1572593385}
-  - {fileID: 11837479}
-  - {fileID: 1825159270}
-  - {fileID: 1314312638}
-  - {fileID: 1454468218}
-  - {fileID: 1396171998}
-  - {fileID: 1066640849}
-  - {fileID: 1950193756}
-  - {fileID: 1296632149}
-  - {fileID: 939222657}
-  - {fileID: 1356031702}
-  - {fileID: 237432167}
-  - {fileID: 1740874084}
-  - {fileID: 1692431846}
-  - {fileID: 1982136790}
-  - {fileID: 53302325}
-  - {fileID: 1013442788}
-  - {fileID: 1509520843}
-  - {fileID: 305985580}
-  - {fileID: 901863061}
-  - {fileID: 1624286587}
-  - {fileID: 1388521895}
-  - {fileID: 1753868917}
-  - {fileID: 39515101}
-  - {fileID: 1398554533}
-  - {fileID: 566457979}
-  - {fileID: 930854981}
-  - {fileID: 224100740}
-  - {fileID: 258977860}
-  - {fileID: 1767894565}
-  - {fileID: 2106126938}
-  - {fileID: 474209965}
-  - {fileID: 96238929}
-  - {fileID: 214106140}
-  - {fileID: 1778476400}
-  - {fileID: 1791911176}
-  - {fileID: 744796745}
-  - {fileID: 1590107242}
-  - {fileID: 1721555573}
-  - {fileID: 1004516965}
-  - {fileID: 1563819157}
-  - {fileID: 1508647395}
-  - {fileID: 1765180704}
-  - {fileID: 1176765709}
-  - {fileID: 956808022}
-  - {fileID: 16122764}
-  - {fileID: 521536886}
-  - {fileID: 1517597980}
-  - {fileID: 1984552994}
-  - {fileID: 1562925816}
-  - {fileID: 1917254718}
-  - {fileID: 1013868839}
-  - {fileID: 1069567667}
-  - {fileID: 174563258}
-  - {fileID: 1554673238}
-  - {fileID: 318903795}
-  - {fileID: 583199257}
-  - {fileID: 1863786906}
-  - {fileID: 1708475997}
-  - {fileID: 346335926}
-  - {fileID: 1701254466}
-  - {fileID: 2111316945}
-  - {fileID: 1610533401}
-  - {fileID: 257506841}
-  - {fileID: 710299180}
-  - {fileID: 360119891}
-  - {fileID: 1444993787}
-  - {fileID: 425172906}
-  - {fileID: 477392250}
-  - {fileID: 1057981273}
-  - {fileID: 227038727}
-  - {fileID: 1910411035}
-  - {fileID: 496486913}
-  - {fileID: 2033807748}
-  - {fileID: 1564749276}
+  - {fileID: 673162953}
+  - {fileID: 274675897}
+  - {fileID: 258177126}
+  - {fileID: 1261555928}
+  - {fileID: 284293717}

@@ -1,40 +1,46 @@
 using System.Collections;
 using System.Collections.Generic;
+using UnityEditor.Experimental.GraphView;
 using UnityEngine;
 
 public class MovingPlatform2D : MonoBehaviour
 {
-    public Transform startPoint;    // Starting point of the platform
-    public Transform endPoint;      // Ending point of the platform
-    public float speed = 2f;        // Speed of the platform
-
-    private Rigidbody2D rb2d;
-    private Vector3 nextPosition;
-
-    void Start()
+    public Transform platform;
+    public Transform startpoint;
+    public Transform endpoint;
+    public float speed = 1.5f;
+    int direction = 1;
+    // Start is called before the first frame update
+    private void Start()
     {
-        rb2d = GetComponent<Rigidbody2D>();
-        nextPosition = startPoint.position;
+        Vector2 target = currentMovementTarget();
+
+        platform.position = Vector2.Lerp(platform.position, target, speed * Time.deltaTime);
     }
 
-    void Update()
+    // Update is called once per frame
+    private void Update()
     {
-        MovePlatform();
+        
     }
-
-    void MovePlatform()
+    Vector2 currentMovementTarget()
     {
-        // Move the platform towards the next position
-        transform.position = Vector3.MoveTowards(transform.position, nextPosition, speed * Time.deltaTime);
-
-        // Check if the platform has reached the next position
-        if (Vector3.Distance(transform.position, nextPosition) < 0.1f)
+        if (direction == 1)
         {
-            // Switch to the other endpoint
-            if (nextPosition == startPoint.position)
-                nextPosition = endPoint.position;
-            else
-                nextPosition = startPoint.position;
+            return startpoint.position;
+        }
+        else
+        {
+            return endpoint.position;
+        }
+    }
+
+    private void OnDrawGizmos()
+    {
+        if(platform != null && startpoint!= null && endpoint != null)
+        {
+            Gizmos.DrawLine(platform.transform.position, startpoint.position);
+            Gizmos.DrawLine(platform.transform.position, endpoint.position);
         }
     }
 }

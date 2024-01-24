@@ -3778,19 +3778,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 323989661}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 323989658}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: 
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &323989661
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11360,19 +11348,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1346671121}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 1346671118}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: 
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &1346671121
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14946,8 +14922,7 @@ RectTransform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 4.463525, y: 1.0002295, z: 1.0002295}
   m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 1859864961}
+  m_Children: []
   m_Father: {fileID: 1971039507}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
@@ -18221,17 +18196,17 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1859864960}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 4.2830663, y: 8.822899, z: 2.8119001}
+  m_LocalScale: {x: 19.117573, y: 8.8249235, z: 2.8125453}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1573038599}
+  m_Father: {fileID: 1971039507}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.18231204}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 135.12599, y: -47.655487}
-  m_SizeDelta: {x: 100, y: 131.32568}
+  m_AnchoredPosition: {x: 0, y: 141.5}
+  m_SizeDelta: {x: 100, y: -183}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1859864962
 MonoBehaviour:
@@ -19510,6 +19485,7 @@ RectTransform:
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children:
+  - {fileID: 1859864961}
   - {fileID: 1573038599}
   - {fileID: 1346671119}
   - {fileID: 2126094973}
@@ -20828,19 +20804,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 2126094975}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 2126094972}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: 
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!114 &2126094975
 MonoBehaviour:
   m_ObjectHideFlags: 0

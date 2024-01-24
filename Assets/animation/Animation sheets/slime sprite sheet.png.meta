@@ -119,6 +119,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -126,10 +139,10 @@ TextureImporter:
       name: slime sprite sheet_0
       rect:
         serializedVersion: 2
-        x: 3
-        y: 466
-        width: 110
-        height: 77
+        x: 0
+        y: 400
+        width: 145.6
+        height: 200
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -147,10 +160,10 @@ TextureImporter:
       name: slime sprite sheet_1
       rect:
         serializedVersion: 2
-        x: 215
-        y: 466
-        width: 110
-        height: 77
+        x: 203
+        y: 400
+        width: 146
+        height: 200
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -168,10 +181,10 @@ TextureImporter:
       name: slime sprite sheet_2
       rect:
         serializedVersion: 2
-        x: 434
-        y: 466
-        width: 110
-        height: 77
+        x: 417
+        y: 400
+        width: 146
+        height: 200
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -189,10 +202,10 @@ TextureImporter:
       name: slime sprite sheet_3
       rect:
         serializedVersion: 2
-        x: 602
-        y: 466
-        width: 110
-        height: 77
+        x: 582
+        y: 0
+        width: 146
+        height: 200
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -210,10 +223,10 @@ TextureImporter:
       name: slime sprite sheet_4
       rect:
         serializedVersion: 2
-        x: 71
-        y: 285
-        width: 110
-        height: 77
+        x: 582
+        y: 400
+        width: 146
+        height: 200
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -231,10 +244,10 @@ TextureImporter:
       name: slime sprite sheet_5
       rect:
         serializedVersion: 2
-        x: 229
-        y: 285
-        width: 110
-        height: 77
+        x: 57
+        y: 201
+        width: 146
+        height: 200
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -252,10 +265,10 @@ TextureImporter:
       name: slime sprite sheet_6
       rect:
         serializedVersion: 2
-        x: 379
-        y: 273
-        width: 143
-        height: 69
+        x: 210
+        y: 200
+        width: 146
+        height: 200
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -273,10 +286,10 @@ TextureImporter:
       name: slime sprite sheet_7
       rect:
         serializedVersion: 2
-        x: 562
-        y: 282
-        width: 143
-        height: 51
+        x: 378
+        y: 200
+        width: 146
+        height: 200
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -294,10 +307,10 @@ TextureImporter:
       name: slime sprite sheet_8
       rect:
         serializedVersion: 2
-        x: 36
-        y: 104
-        width: 110
-        height: 77
+        x: 562
+        y: 200
+        width: 146
+        height: 200
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -315,10 +328,10 @@ TextureImporter:
       name: slime sprite sheet_9
       rect:
         serializedVersion: 2
-        x: 243
-        y: 69
-        width: 59
-        height: 148
+        x: 447
+        y: 0
+        width: 146
+        height: 200
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -328,6 +341,69 @@ TextureImporter:
       bones: []
       spriteID: 9bab7ef339d8a5947b9358105996ce8a
       internalID: 2133026464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime sprite sheet_10
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 0
+        width: 146
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b812227390b944a91cadf78a4c3fba
+      internalID: -458791264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime sprite sheet_11
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 16
+        width: 146
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1fffa03b6452841a0be321111b1f97
+      internalID: 1723711483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slime sprite sheet_12
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 146
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d614136adebc92c42a0128138b957854
+      internalID: 472443910
       vertices: []
       indices: 
       edges: []
@@ -345,6 +421,9 @@ TextureImporter:
     nameFileIdTable:
       slime sprite sheet_0: -1736287197
       slime sprite sheet_1: 1648823753
+      slime sprite sheet_10: -458791264
+      slime sprite sheet_11: 1723711483
+      slime sprite sheet_12: 472443910
       slime sprite sheet_2: -1485306960
       slime sprite sheet_3: 1258971427
       slime sprite sheet_4: -2042385966

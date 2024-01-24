@@ -9,19 +9,29 @@ public class MovingPlatform2D : MonoBehaviour
     public Transform startpoint;
     public Transform endpoint;
     public float speed = 1.5f;
+
     int direction = 1;
     // Start is called before the first frame update
     private void Start()
     {
-        Vector2 target = currentMovementTarget();
-
-        platform.position = Vector2.Lerp(platform.position, target, speed * Time.deltaTime);
+ 
     }
 
     // Update is called once per frame
     private void Update()
     {
-        
+        {
+            Vector2 target = currentMovementTarget();
+
+            platform.position = Vector2.Lerp(platform.position, target, speed * Time.deltaTime);
+
+            float distance = (target - (Vector2)platform.position).magnitude;
+
+            if (distance <= 0.1)
+            {
+                direction *= -1;
+            }
+        }
     }
     Vector2 currentMovementTarget()
     {
@@ -33,6 +43,7 @@ public class MovingPlatform2D : MonoBehaviour
         {
             return endpoint.position;
         }
+
     }
 
     private void OnDrawGizmos()

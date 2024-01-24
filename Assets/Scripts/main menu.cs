@@ -1,22 +1,17 @@
 using System.Collections;
 using System.Collections.Generic;
-using UnityEditor.PackageManager.UI;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class MainMenuController : MonoBehaviour
+public class MainMenu : MonoBehaviour
 {
-    
-
-
-    public void playGame()
+    public void PlayGame()
     {
         SceneManager.LoadSceneAsync(1);
     }
 
-
-    public void exitGame()
+    public void QuitGame()
     {
-        Application.Quit();
+        Application.Quit(); 
     }
 }

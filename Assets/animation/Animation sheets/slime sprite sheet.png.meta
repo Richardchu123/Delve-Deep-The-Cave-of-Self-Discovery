@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 20
+  spritePixelsToUnits: 25
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -119,19 +119,6 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -140,9 +127,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 400
-        width: 145.6
-        height: 200
+        y: 433.3333
+        width: 200
+        height: 216.66667
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -150,8 +137,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 521c188bd4074804d9576f0ee889d0ec
-      internalID: -1736287197
+      spriteID: 98ed1ea05955e9f41a03d21d47cc51fe
+      internalID: -181564103
       vertices: []
       indices: 
       edges: []
@@ -160,10 +147,10 @@ TextureImporter:
       name: slime sprite sheet_1
       rect:
         serializedVersion: 2
-        x: 203
-        y: 400
-        width: 146
-        height: 200
+        x: 200
+        y: 433.3333
+        width: 200
+        height: 216.66667
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -171,8 +158,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 63a85f9de7d960c4184db110408a6291
-      internalID: 1648823753
+      spriteID: 6674ee177ed509d4eaf8124eb861dc35
+      internalID: -2042000556
       vertices: []
       indices: 
       edges: []
@@ -181,10 +168,10 @@ TextureImporter:
       name: slime sprite sheet_2
       rect:
         serializedVersion: 2
-        x: 417
-        y: 400
-        width: 146
-        height: 200
+        x: 400
+        y: 433.3333
+        width: 200
+        height: 216.66667
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -192,8 +179,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f67173a98c220194cb2104807894fe68
-      internalID: -1485306960
+      spriteID: 5cbece6b749204840bcc677371d7cb19
+      internalID: 464799665
       vertices: []
       indices: 
       edges: []
@@ -202,10 +189,10 @@ TextureImporter:
       name: slime sprite sheet_3
       rect:
         serializedVersion: 2
-        x: 582
-        y: 0
-        width: 146
-        height: 200
+        x: 600
+        y: 433.3333
+        width: 200
+        height: 216.66667
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -213,8 +200,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f167b3910fe9a484f8f503eabc474a9c
-      internalID: 1258971427
+      spriteID: 0f1580d3580f26e40a2b909138a8df03
+      internalID: 1413771230
       vertices: []
       indices: 
       edges: []
@@ -223,10 +210,10 @@ TextureImporter:
       name: slime sprite sheet_4
       rect:
         serializedVersion: 2
-        x: 582
-        y: 400
-        width: 146
-        height: 200
+        x: 800
+        y: 433.3333
+        width: 200
+        height: 216.66667
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -234,8 +221,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a526583f616f6c1438198d6b996f9df7
-      internalID: -2042385966
+      spriteID: 36322c6fd9887e1428eb82819c2d0635
+      internalID: 563374681
       vertices: []
       indices: 
       edges: []
@@ -244,10 +231,10 @@ TextureImporter:
       name: slime sprite sheet_5
       rect:
         serializedVersion: 2
-        x: 57
-        y: 201
-        width: 146
-        height: 200
+        x: 0
+        y: 217.33333
+        width: 200
+        height: 216.66667
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -255,8 +242,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 757210fe6453c174394f3b904c9e98e5
-      internalID: -622907434
+      spriteID: 8a8f4fc369420d44eb229129b5e2ca08
+      internalID: 256214147
       vertices: []
       indices: 
       edges: []
@@ -265,10 +252,10 @@ TextureImporter:
       name: slime sprite sheet_6
       rect:
         serializedVersion: 2
-        x: 210
-        y: 200
-        width: 146
-        height: 200
+        x: 200
+        y: 217.33333
+        width: 200
+        height: 216.66667
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -276,8 +263,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6cc632d0e6f03454ca80e539a5ec4382
-      internalID: -902639738
+      spriteID: 9f99cb11b3916cd4c9720187e37b5d00
+      internalID: 305227884
       vertices: []
       indices: 
       edges: []
@@ -286,10 +273,10 @@ TextureImporter:
       name: slime sprite sheet_7
       rect:
         serializedVersion: 2
-        x: 378
-        y: 200
-        width: 146
-        height: 200
+        x: 400
+        y: 217.33333
+        width: 200
+        height: 216.66667
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -297,113 +284,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 599bbe4ebe45e5b4787196562dfe8ff0
-      internalID: -256876061
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: slime sprite sheet_8
-      rect:
-        serializedVersion: 2
-        x: 562
-        y: 200
-        width: 146
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1d7b83e752269424bb594318e9a90247
-      internalID: 1424376089
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: slime sprite sheet_9
-      rect:
-        serializedVersion: 2
-        x: 447
-        y: 0
-        width: 146
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9bab7ef339d8a5947b9358105996ce8a
-      internalID: 2133026464
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: slime sprite sheet_10
-      rect:
-        serializedVersion: 2
-        x: 20
-        y: 0
-        width: 146
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 14b812227390b944a91cadf78a4c3fba
-      internalID: -458791264
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: slime sprite sheet_11
-      rect:
-        serializedVersion: 2
-        x: 214
-        y: 16
-        width: 146
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cb1fffa03b6452841a0be321111b1f97
-      internalID: 1723711483
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: slime sprite sheet_12
-      rect:
-        serializedVersion: 2
-        x: 416
-        y: 0
-        width: 146
-        height: 200
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d614136adebc92c42a0128138b957854
-      internalID: 472443910
+      spriteID: 420fc252fba43264f85f64edbecb1e8a
+      internalID: 961433355
       vertices: []
       indices: 
       edges: []
@@ -419,19 +301,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      slime sprite sheet_0: -1736287197
-      slime sprite sheet_1: 1648823753
-      slime sprite sheet_10: -458791264
-      slime sprite sheet_11: 1723711483
-      slime sprite sheet_12: 472443910
-      slime sprite sheet_2: -1485306960
-      slime sprite sheet_3: 1258971427
-      slime sprite sheet_4: -2042385966
-      slime sprite sheet_5: -622907434
-      slime sprite sheet_6: -902639738
-      slime sprite sheet_7: -256876061
-      slime sprite sheet_8: 1424376089
-      slime sprite sheet_9: 2133026464
+      slime sprite sheet_0: -181564103
+      slime sprite sheet_1: -2042000556
+      slime sprite sheet_2: 464799665
+      slime sprite sheet_3: 1413771230
+      slime sprite sheet_4: 563374681
+      slime sprite sheet_5: 256214147
+      slime sprite sheet_6: 305227884
+      slime sprite sheet_7: 961433355
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

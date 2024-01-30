@@ -6380,8 +6380,8 @@ Transform:
   - {fileID: 393133326}
   - {fileID: 566816315}
   - {fileID: 1647509563}
-  - {fileID: 1763320388}
   - {fileID: 930854981}
+  - {fileID: 1763320388}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &689465724

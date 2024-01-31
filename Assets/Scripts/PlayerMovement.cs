@@ -17,6 +17,14 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private Transform groundCheck;
     [SerializeField] private LayerMask groundLayer;
 
+    private Animator anim;
+  
+
+    private void Start()
+    {
+        anim = GetComponent<Animator>();
+        rb = GetComponent<Rigidbody2D>();
+    }
 
     void Update()
     {
@@ -35,6 +43,9 @@ public class PlayerMovement : MonoBehaviour
         }
 
         Flip();
+
+        
+       
     }
 
     private bool IsGrounded()

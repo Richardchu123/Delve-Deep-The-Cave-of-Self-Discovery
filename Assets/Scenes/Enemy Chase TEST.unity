@@ -2454,8 +2454,8 @@ MonoBehaviour:
   moveSpeed: 2
   patrolDestination: 1
   playerTransform: {fileID: 8283612}
-  isChasing: 0
-  chaseDistance: 100
+  isChasing: 1
+  chaseDistance: 5
 --- !u!61 &692493961
 BoxCollider2D:
   m_ObjectHideFlags: 0

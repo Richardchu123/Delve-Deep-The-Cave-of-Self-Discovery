@@ -772,6 +772,7 @@ GameObject:
   - component: {fileID: 352642480}
   - component: {fileID: 352642483}
   - component: {fileID: 352642482}
+  - component: {fileID: 352642484}
   m_Layer: 0
   m_Name: Spike
   m_TagString: Untagged
@@ -897,6 +898,51 @@ MonoBehaviour:
   _data:
     _json: '{"declarations":{"Kind":"Object","collection":{"$content":[],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
+--- !u!61 &352642484
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 352642479}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0.21133333}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.28866667}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
 --- !u!1 &412240929
 GameObject:
   m_ObjectHideFlags: 0
@@ -1098,7 +1144,7 @@ GameObject:
   - component: {fileID: 440927750}
   - component: {fileID: 440927749}
   - component: {fileID: 440927751}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Enviroment for spikes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1722,7 +1768,7 @@ GameObject:
   - component: {fileID: 485358723}
   - component: {fileID: 485358724}
   - component: {fileID: 485358725}
-  m_Layer: 6
+  m_Layer: 3
   m_Name: Enviroment (37)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2050,7 +2096,7 @@ GameObject:
   - component: {fileID: 556139236}
   - component: {fileID: 556139235}
   - component: {fileID: 556139237}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Enviroment for spikes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2180,7 +2226,7 @@ GameObject:
   - component: {fileID: 583811221}
   - component: {fileID: 583811220}
   - component: {fileID: 583811222}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Enviroment for spikes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2311,7 +2357,7 @@ GameObject:
   - component: {fileID: 616509267}
   - component: {fileID: 616509269}
   - component: {fileID: 616509270}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: ButtonBehavior
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2444,7 +2490,7 @@ GameObject:
   - component: {fileID: 620040588}
   - component: {fileID: 620040587}
   - component: {fileID: 620040589}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Enviroment for spikes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2773,7 +2819,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Jump","value":{"$content":5.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Jump","value":{"$content":2.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"jumpforce","value":{"$content":40.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
@@ -2825,7 +2871,7 @@ GameObject:
   - component: {fileID: 678648658}
   - component: {fileID: 678648657}
   - component: {fileID: 678648659}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Enviroment for spikes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2955,7 +3001,7 @@ GameObject:
   - component: {fileID: 691948851}
   - component: {fileID: 691948850}
   - component: {fileID: 691948852}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Enviroment for spikes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3436,7 +3482,7 @@ GameObject:
   - component: {fileID: 876494918}
   - component: {fileID: 876494917}
   - component: {fileID: 876494919}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3566,7 +3612,7 @@ GameObject:
   - component: {fileID: 929568029}
   - component: {fileID: 929568028}
   - component: {fileID: 929568030}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3980,7 +4026,7 @@ GameObject:
   - component: {fileID: 981381343}
   - component: {fileID: 981381342}
   - component: {fileID: 981381344}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Enviroment for spikes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4227,7 +4273,7 @@ GameObject:
   - component: {fileID: 1033052183}
   - component: {fileID: 1033052182}
   - component: {fileID: 1033052184}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4864,7 +4910,7 @@ GameObject:
   - component: {fileID: 1205887305}
   - component: {fileID: 1205887304}
   - component: {fileID: 1205887306}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Enviroment for spikes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5278,7 +5324,7 @@ GameObject:
   - component: {fileID: 1285256839}
   - component: {fileID: 1285256838}
   - component: {fileID: 1285256840}
-  m_Layer: 6
+  m_Layer: 3
   m_Name: Enviroment (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5535,7 +5581,7 @@ GameObject:
   - component: {fileID: 1354587983}
   - component: {fileID: 1354587982}
   - component: {fileID: 1354587984}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5665,7 +5711,7 @@ GameObject:
   - component: {fileID: 1355242010}
   - component: {fileID: 1355242009}
   - component: {fileID: 1355242011}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Enviroment for spikes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5795,7 +5841,7 @@ GameObject:
   - component: {fileID: 1365296832}
   - component: {fileID: 1365296831}
   - component: {fileID: 1365296833}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: platform  (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5925,7 +5971,7 @@ GameObject:
   - component: {fileID: 1376948589}
   - component: {fileID: 1376948588}
   - component: {fileID: 1376948590}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Enviroment for spikes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11008,7 +11054,7 @@ GameObject:
   - component: {fileID: 1465277485}
   - component: {fileID: 1465277484}
   - component: {fileID: 1465277486}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Enviroment for spikes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16258,7 +16304,7 @@ GameObject:
   - component: {fileID: 1610320304}
   - component: {fileID: 1610320303}
   - component: {fileID: 1610320305}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Enviroment
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16425,7 +16471,7 @@ GameObject:
   - component: {fileID: 1640229553}
   - component: {fileID: 1640229552}
   - component: {fileID: 1640229554}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Enviroment for spikes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16964,7 +17010,7 @@ GameObject:
   - component: {fileID: 1673156802}
   - component: {fileID: 1673156801}
   - component: {fileID: 1673156803}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: platform  (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22622,7 +22668,7 @@ GameObject:
   - component: {fileID: 1966819576}
   - component: {fileID: 1966819575}
   - component: {fileID: 1966819577}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22915,7 +22961,7 @@ GameObject:
   - component: {fileID: 1977075473}
   - component: {fileID: 1977075472}
   - component: {fileID: 1977075474}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: 'Platform '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23164,7 +23210,7 @@ GameObject:
   - component: {fileID: 1989605977}
   - component: {fileID: 1989605976}
   - component: {fileID: 1989605978}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Gate
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23295,7 +23341,7 @@ GameObject:
   - component: {fileID: 2005567143}
   - component: {fileID: 2005567142}
   - component: {fileID: 2005567144}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23425,7 +23471,7 @@ GameObject:
   - component: {fileID: 2037702785}
   - component: {fileID: 2037702784}
   - component: {fileID: 2037702786}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23587,7 +23633,7 @@ GameObject:
   - component: {fileID: 2042676800}
   - component: {fileID: 2042676799}
   - component: {fileID: 2042676801}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Enviroment for spikes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24081,7 +24127,7 @@ GameObject:
   - component: {fileID: 2137676192}
   - component: {fileID: 2137676191}
   - component: {fileID: 2137676193}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Enviroment for spikes
   m_TagString: Untagged
   m_Icon: {fileID: 0}

@@ -5,16 +5,18 @@ using UnityEngine.SceneManagement;
 
 public class PauseMenu : MonoBehaviour
 
-    
-{
-    public GameObject pauseMenu;
-    public bool isPaused;
 
+{
+   
+    public bool isPaused;
+    public static bool isGamePaused = false;
+
+    [SerializeField] GameObject pauseMenu;
 
     // Start is called before the first frame update
     void Start()
     {
-        pauseMenu = GetComponent<GameObject>();
+      
         pauseMenu.SetActive(false);
          
     }
@@ -52,11 +54,12 @@ public class PauseMenu : MonoBehaviour
     public void GoToMainMenu()
     {
         Time.timeScale = 1f;
-        SceneManager.LoadScene("MainMenu");
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 
     public void QuitGame()
     {
         Application.Quit();
+        Debug.Log("QuitGame");
     }
 }

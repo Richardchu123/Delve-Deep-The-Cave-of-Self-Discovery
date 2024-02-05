@@ -11,6 +11,7 @@ public class MonsterMovement : MonoBehaviour
     public Transform playerTransform;
     public bool isChasing;
     public float chaseDistance;
+    
     // Start is called before the first frame update
     void Start()
     {
@@ -44,7 +45,7 @@ public class MonsterMovement : MonoBehaviour
                 if (Vector2.Distance(transform.position, Vector2.MoveTowards(transform.position, transform.position, patrolDestination)) < .2f)
 
                 {
-                    transform.localScale = new Vector3 (1,1, 1);
+                    transform.localScale = new Vector3(1, 1, 1);
                 }
             }
         }

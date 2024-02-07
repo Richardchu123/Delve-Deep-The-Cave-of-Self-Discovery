@@ -8207,9 +8207,6 @@ GameObject:
   m_Component:
   - component: {fileID: 931829198}
   - component: {fileID: 931829202}
-  - component: {fileID: 931829201}
-  - component: {fileID: 931829200}
-  - component: {fileID: 931829203}
   - component: {fileID: 931829199}
   m_Layer: 0
   m_Name: MP_Sprite
@@ -8280,42 +8277,6 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 10.021591, y: 3.3436813}
   m_EdgeRadius: 0
---- !u!114 &931829200
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 931829197}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d2fe5546f775c47d2820aa5e8a715f53, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _data:
-    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
-    _objectReferences:
-    - {fileID: 11400000, guid: 2a113d4518e7acc44b7bb9d85328b4c1, type: 2}
---- !u!114 &931829201
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 931829197}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e741851cba3ad425c91ecf922cc6b379, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _data:
-    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"MOSSY
-      MP","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
-      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Speed","value":{"$content":1,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
-      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Distance","value":{"$content":23,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
-      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
-    _objectReferences:
-    - {fileID: 931829197}
 --- !u!212 &931829202
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -8368,22 +8329,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &931829203
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 931829197}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d2fe5546f775c47d2820aa5e8a715f53, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _data:
-    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
-    _objectReferences:
-    - {fileID: 11400000, guid: 369faca55e875eb42b2704772ac3048d, type: 2}
 --- !u!1 &932854354
 GameObject:
   m_ObjectHideFlags: 0
@@ -10894,7 +10839,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0.09673655, y: -0.17799604}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -10905,7 +10850,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1.41, y: 3.74}
+  m_Size: {x: 1.216527, y: 3.3840082}
   m_EdgeRadius: 0
 --- !u!1 &1234272276
 GameObject:
@@ -16884,9 +16829,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 1627697258}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 040f9f216dbc4994ea5780747643f58a, type: 3}
+  m_Script: {fileID: 11500000, guid: f81d7ef6eb30d444f90c400511aad51e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Fullheart: {fileID: 0}
+  emptyHeart: {fileID: 0}
 --- !u!114 &1627697261
 MonoBehaviour:
   m_ObjectHideFlags: 0
